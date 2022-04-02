@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Internship"
+permalink: /internship/
+author_profile: true
+---
+
 ## 1. **Modeling & Algorithm Intern**
 
 ### *([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)*
