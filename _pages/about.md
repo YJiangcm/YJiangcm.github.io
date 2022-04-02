@@ -20,30 +20,30 @@ Research Interest
 
 ## Education
 
-**1. The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
+**The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
 - Ph.D. in [Data Science and Analytics](https://hkust-gz.edu.cn/academics/four-hubs/information-hub/data-science-and-analytics),  *Sep. 2021 -- Jun. 2025 (Expected)*
 - CGA: **4.00** / 4.30
 
-**2. The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
+**The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 - M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021*
 - GGA: **3.98** / 4.30
 
-**3. University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
+**University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
 - Summer School in [Machine Learning & Algorithms for Data Mining](https://www.lucy.cam.ac.uk/),  *Jul. 2018 -- Aug. 2018*
 - Received merit scholarship of 30,000 ¥
 
-**4. Shanghai University [(SHU)](https://www.shu.edu.cn/)**
+**Shanghai University [(SHU)](https://www.shu.edu.cn/)**
 - B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jun. 2020*
 - GGA: **3.70** / 4.00
 
 ## Awards
-* **Postgraduate Studentship at HKUST** in `2021`
-* **School of Engineering Excellent Student Scholarship at HKUST** in `2020-2021`
-* **School of Engineering Entrance Scholarship at HKUST** in `2020-2021`
-* **Outstanding Graduate of Shanghai** in `2020`
-* **Special Scholarship for Undergraduate Students in Shanghai University** in `2016-2017`,`2018-2019`
-* **Outstanding Student of Shanghai University** in `2016-2017`,`2017-2018`,`2018-2019`
+* Postgraduate Studentship at HKUST in `2021`
+* School of Engineering Excellent Student Scholarship at HKUST in `2020-2021`
+* School of Engineering Entrance Scholarship at HKUST in `2020-2021`
+* Outstanding Graduate of Shanghai in `2020`
+* Special Scholarship for Undergraduate Students in Shanghai University in `2016-2017`,`2018-2019`
+* Outstanding Student of Shanghai University in `2016-2017`,`2017-2018`,`2018-2019`
 
 
 
