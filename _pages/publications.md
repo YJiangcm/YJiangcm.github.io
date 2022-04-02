@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="text-align: right"><i>(Ziyi Shou, <b>Yuxin Jiang</b>, Fangzhen Lin)</i></div>
 
-### Accepted by *60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)*
+Accepted by ***60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)***
 
 
 
@@ -17,7 +17,7 @@ author_profile: true
 
 <div style="text-align: right"><i>( <b>Yuxin Jiang</b>, Ziyi Shou, Qijun Wang, Hao Wu, Fangzhen Lin)</i></div>
 
-### Published in *Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*
+Published in ***Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)***
 [[paper](https://aclanthology.org/2021.semeval-1.105/)] [[code](https://github.com/zzshou/RCAM)]
 
 
@@ -26,7 +26,7 @@ author_profile: true
 
 <div style="text-align: right"><i>( SONG Pingping, <b>JIANG Yuxin</b>, SHEN Yuting)</i></div>
 
-### Published in *Journal of Shanghai University (Natural Science Edition), 2019*
+Published in ***Journal of Shanghai University (Natural Science Edition), 2019***
 
 
 
@@ -34,5 +34,5 @@ author_profile: true
 
 <div style="text-align: right"><i>( Jia-Ling Liu, Jun-Tong Liu, <b>Yu-Xin Jiang</b>)</i></div>
 
-### Published in *JP Journal of Algebra, Number Theory and Applications 40 (4), 2018*
+Published in ***JP Journal of Algebra, Number Theory and Applications 40 (4), 2018***
 [[paper](http://www.pphmj.com/abstract/11971.htm)]
