@@ -36,7 +36,7 @@ Research Interest
 - GGA: **3.70** / 4.00
 
 ## Awards
-* **Postgraduate Studentship** in `2021`
+* **Postgraduate Studentship at HKUST** in `2021`
 * **School of Engineering Excellent Student Scholarship at HKUST** in `2020-2021`
 * **School of Engineering Entrance Scholarship at HKUST** in `2020-2021`
 * **Outstanding Graduate of Shanghai** in `2020`
