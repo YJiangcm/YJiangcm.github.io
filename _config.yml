@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuxin Jiang"
 title_separator          : "-"
 name                     : &name "Yuxin Jiang"
-description              : &description "1st Year PhD in DSA Thrust of information Hub, HKUST"
+description              : &description "1st Year Ph.D. in DSA Thrust of information Hub, HKUST"
 url                      : https://YJiangcm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YJiangcm/YJiangcm.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuxin Jiang"
   avatar           : "avatar.png"
-  bio              : "1st Year PhD in DSA Thrust of information Hub, HKUST"
+  bio              : "1st Year Ph.D. in DSA Thrust of information Hub, HKUST"
   location         : "Guangzhou, Guangdong Province, China"
   employer         :
   pubmed           : 
