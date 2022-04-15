@@ -46,7 +46,7 @@ Research Interest
 * Outstanding Student of Shanghai University in `2016-2017`,`2017-2018`,`2018-2019`
 
 ## Sitemap
-<p align="left"><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=266&t=tt&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script></p>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
 
 
 
