@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a 1st Year Ph.D. student in the Data Science and Analytics Thrust, the Hong Kong University of Science and Technology (Guangzhou). Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Langauge Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematic and Applied Mathematic from Shanghai University (advised by [Prof. Qingwen Wang](https://www.scicol.shu.edu.cn/PDF/WangQingWen.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.    
 
-Research Interest
+Research Interests
 ------
 - Natural Language Processing
 - Machine Learning
@@ -37,7 +37,7 @@ Research Interest
 - GGA: **3.70** / 4.00
 
 ## Awards
-* [_2021_] Postgraduate Studentship at HKUST (Top 5%)
+* <font size=10>[_2021_] Postgraduate Studentship at HKUST (Top 5%)</font>
 * [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
 * [_2020_] School of Engineering Entrance Scholarship at HKUST (Top 10%)
 * [_2020_] Excellent Graduate of Shanghai (Top 1%)
