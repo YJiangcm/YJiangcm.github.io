@@ -15,8 +15,7 @@ I am currently a 1st Year Ph.D. student in the Data Science and Analytics Thrust
 Research Interest
 ------
 - Natural Language Processing
-- Graph Learning
-- Discourse Analysis
+- Machine Learning
 
 ## Education
 
@@ -38,12 +37,12 @@ Research Interest
 - GGA: **3.70** / 4.00
 
 ## Awards
-* Postgraduate Studentship at HKUST in `2021`
-* School of Engineering Excellent Student Scholarship at HKUST in `2020-2021`
-* School of Engineering Entrance Scholarship at HKUST in `2020-2021`
-* Outstanding Graduate of Shanghai in `2020`
-* Special Scholarship for Undergraduate Students in Shanghai University in `2016-2017`,`2018-2019`
-* Outstanding Student of Shanghai University in `2016-2017`,`2017-2018`,`2018-2019`
+* [_2021_] Postgraduate Studentship at HKUST (Top 5%)
+* [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
+* [_2020_] School of Engineering Entrance Scholarship at HKUST (Top 10%)
+* [_2020_] Excellent Graduate of Shanghai (Top 1%)
+* [_2019_] Third Prize at Science and Technology Innovation Competition for Undergraduates (Top 20%)
+* [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship and Excellent Student at Shanghai University (Top 5%)
 
 ## Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
