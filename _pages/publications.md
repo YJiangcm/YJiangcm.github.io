@@ -9,8 +9,8 @@ author_profile: true
 
 <div style="text-align: right"><i>(Ziyi Shou, <b>Yuxin Jiang</b>, Fangzhen Lin)</i></div>
 
-Accepted by *60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)*
-
+Published in *Findings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)*
+[[paper](https://aclanthology.org/2022.findings-acl.244/)] [[code](https://github.com/zzshou/amr-data-augmentation)]
 
 
 ## 2. XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning
