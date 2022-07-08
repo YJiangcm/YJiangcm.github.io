@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am currently a 1st Year Ph.D. student in the Data Science and Analytics Thrust, the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Langauge Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematic and Applied Mathematic from Shanghai University (advised by [Prof. Qingwen Wang](https://www.scicol.shu.edu.cn/PDF/WangQingWen.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.    
+I am currently a 1st Year Ph.D. student in the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Langauge Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematic and Applied Mathematic from Shanghai University (advised by [Prof. Qingwen Wang](https://www.scicol.shu.edu.cn/PDF/WangQingWen.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.    
 
 Research Interests
 ------
@@ -21,7 +21,7 @@ Research Interests
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Ph.D. in [Data Science and Analytics](https://hkust-gz.edu.cn/academics/four-hubs/information-hub/data-science-and-analytics),  *Sep. 2021 -- Jun. 2025 (Expected)*
+- Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ipo.hkust.edu.hk/),  *Sep. 2021 -- Jun. 2025 (Expected)*
 - CGA: **4.00** / 4.30
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
