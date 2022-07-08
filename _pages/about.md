@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am currently a 1st Year Ph.D. student in the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Langauge Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematic and Applied Mathematic from Shanghai University (advised by [Prof. Qingwen Wang](https://www.scicol.shu.edu.cn/PDF/WangQingWen.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.    
+I am currently a 1st Year Ph.D. student at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Langauge Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematic and Applied Mathematic from Shanghai University (advised by [Prof. Qingwen Wang](https://www.scicol.shu.edu.cn/PDF/WangQingWen.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.    
 
 Research Interests
 ------
