@@ -44,8 +44,12 @@ Research Interests
 * [_2019_] Third Prize at Science and Technology Innovation Competition for Undergraduates (Top 20%)
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship and Excellent Student at Shanghai University (Top 5%)
 
+## Teaching
+INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
+
 ## Academic Service
-- Conference: Reviewer for EMNLP 2022.
+- Conference Reviewer: EMNLP 2022.
+- Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023.
 
 ## Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
