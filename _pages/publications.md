@@ -5,7 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 1. AMR-DA: Data Augmentation by Abstract Meaning Representation
+## 1. Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning
+
+<div style="text-align: right"><i>(<b>Yuxin Jiang</b>, Linhan Zhang, Wei Wang)</i></div>
+
+Published in *Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2022)*
+
+
+## 2. AMR-DA: Data Augmentation by Abstract Meaning Representation
 
 <div style="text-align: right"><i>(Ziyi Shou, <b>Yuxin Jiang</b>, Fangzhen Lin)</i></div>
 
@@ -13,7 +20,7 @@ Published in *Findings of the 60th Annual Meeting of the Association for Computa
 [[paper](https://aclanthology.org/2022.findings-acl.244/)] [[code](https://github.com/zzshou/amr-data-augmentation)]
 
 
-## 2. XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning
+## 3. XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning
 
 <div style="text-align: right"><i>( <b>Yuxin Jiang</b>, Ziyi Shou, Qijun Wang, Hao Wu, Fangzhen Lin)</i></div>
 
@@ -22,7 +29,7 @@ Published in *Proceedings of the 15th International Workshop on Semantic Evaluat
 
 
 
-## 3. Determinant of a rectangular matrix over the quaternion algebra
+## 4. Determinant of a rectangular matrix over the quaternion algebra
 
 <div style="text-align: right"><i>( SONG Pingping, <b>JIANG Yuxin</b>, SHEN Yuting)</i></div>
 
@@ -30,7 +37,7 @@ Published in *Journal of Shanghai University (Natural Science Edition), 2019*
 
 
 
-## 4. THE MIXED AM-GM AND GM-HM INEQUALITIES
+## 5. THE MIXED AM-GM AND GM-HM INEQUALITIES
 
 <div style="text-align: right"><i>( Jia-Ling Liu, Jun-Tong Liu, <b>Yu-Xin Jiang</b>)</i></div>
 
