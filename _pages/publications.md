@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="text-align: right"><i>(<b>Yuxin Jiang</b>, Linhan Zhang, Wei Wang)</i></div>
 
-Published in *Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2022)*
+Accepted by *Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2022)*
 
 
 ## 2. AMR-DA: Data Augmentation by Abstract Meaning Representation
