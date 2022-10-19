@@ -44,7 +44,7 @@ Research Interests
 * [_2019_] Third Prize at Science and Technology Innovation Competition for Undergraduates (Top 20%)
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship and Excellent Student at Shanghai University (Top 5%)
 
-## Teaching
+## Teaching Assistant
 INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
