@@ -48,7 +48,7 @@ Research Interests
 INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
-- Conference Reviewer: EMNLP 2022.
+- Conference Reviewer: EMNLP 2022, ACL 2023.
 - Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023.
 
 ## Sitemap
