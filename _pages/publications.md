@@ -10,6 +10,7 @@ author_profile: true
 <div style="text-align: right"><i>(Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Xin Cao, Kongzhang Hao, <b>Yuxin Jiang</b>, Wei Wang)</i></div>
 
 Accepted by *2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP-2023)*
+[[paper](https://arxiv.org/abs/2302.14225)]
 
 
 ## 2. Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning
