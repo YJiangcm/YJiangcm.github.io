@@ -8,14 +8,14 @@ author_profile: true
 ## Preprint
 - **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
 Chunkit Chan, Jiayang Cheng, Weiqi Wang, **Yuxin Jiang**, Tianqing Fang, Xin Liu, Yangqiu Song.\
-*Arxiv Preprint*, 2023. [[paper]](https://arxiv.org/pdf/2304.14827.pdf)
+*Arxiv Preprint*, 2023. [[paper]](https://arxiv.org/abs/2304.14827)
 
 
 ## Conference
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 **Yuxin Jiang**, Linhan Zhang, Wei Wang.\
 Accepted by *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
-[[paper]](https://arxiv.org/pdf/2211.13873.pdf)
+[[paper]](https://arxiv.org/abs/2211.13873)
 
 - **Weighted Sampling for Masked Language Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Xin Cao, Kongzhang Hao, **Yuxin Jiang**, Wei Wang.\
