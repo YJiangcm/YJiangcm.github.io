@@ -14,8 +14,9 @@ I am currently a 2nd Year Ph.D. student at the Hong Kong University of Science a
 
 Research Interests
 ------
-- Natural Language Processing
-- Machine Learning
+- Large Language Models
+- Contrastive Learning
+- Argument Mining
 
 ## Education
 
