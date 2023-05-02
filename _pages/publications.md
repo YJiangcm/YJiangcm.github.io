@@ -34,7 +34,7 @@ Published in *Findings of the 60th Annual Meeting of the Association for Computa
 
 ## Journal
 - **Determinant of a rectangular matrix over the quaternion algebra**\
-SONG Pingping, JIANG Yuxin, SHEN Yuting\
+SONG Pingping, **JIANG Yuxin**, SHEN Yuting\
 Published in *Journal of Shanghai University (Natural Science Edition), 2019*
 
 - **THE MIXED AM-GM AND GM-HM INEQUALITIES**\
