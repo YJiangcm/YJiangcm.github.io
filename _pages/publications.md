@@ -20,7 +20,7 @@ Accepted by *Findings of the 61th Annual Meeting of the Association for Computat
 - **Weighted Sampling for Masked Language Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Xin Cao, Kongzhang Hao, **Yuxin Jiang**, Wei Wang.\
 Accepted by *2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP-2023)*
-[[paper](https://arxiv.org/abs/2302.14225)]
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096946)]
 
 - **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
 **Yuxin Jiang**, Linhan Zhang, Wei Wang.\
