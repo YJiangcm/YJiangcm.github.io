@@ -14,12 +14,12 @@ Chunkit Chan, Jiayang Cheng, Weiqi Wang, **Yuxin Jiang**, Tianqing Fang, Xin Liu
 ## Conference
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 **Yuxin Jiang**, Linhan Zhang, Wei Wang.\
-Accepted by *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
+Accepted at *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
 [[paper]](https://arxiv.org/abs/2211.13873) [[code](https://github.com/YJiangcm/GOLF_for_IDRR)]
 
 - **Weighted Sampling for Masked Language Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Xin Cao, Kongzhang Hao, **Yuxin Jiang**, Wei Wang.\
-Accepted by *2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP-2023)*
+Published in *2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP-2023)*
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096946)]
 
 - **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
