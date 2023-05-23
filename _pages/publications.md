@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Preprint
+- **Lion: Adversarial Distillation of Closed-Source Large Language Model**\
+**Yuxin Jiang**, Chunkit Chan, Mingyang Chen, Wei Wang.\
+*Arxiv Preprint*, 2023. [[paper]](https://arxiv.org/abs/2305.12870) [[code](https://github.com/YJiangcm/Lion)]
+
 - **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
 Chunkit Chan, Jiayang Cheng, Weiqi Wang, **Yuxin Jiang**, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[paper]](https://arxiv.org/abs/2304.14827)
