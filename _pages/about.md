@@ -16,8 +16,8 @@ This webpage is last updated on **May 23, 2023**.
 
 Research Interests
 ------
-- Large Language Models
-- Contrastive Representation Learning
+- Large Language Models, Prompting
+- Contrastive Representation Learning, Data Augmentation
 - Argument Mining
 
 ## Education
