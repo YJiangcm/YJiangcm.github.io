@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a 2nd Year Ph.D. student at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Langauge Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematic and Applied Mathematic from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.
 
-This webpage is last updated on **05/23/2023**.
+This webpage is last updated on **May 23, 2023**.
 
 Research Interests
 ------
@@ -23,21 +23,21 @@ Research Interests
 ## Education
 
 **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-
 - Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ipo.hkust.edu.hk/),  *Sep. 2021 -- Jun. 2025 (Expected)*
-- CGA: **4.00** / 4.30
-
-**The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 - M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021*
-- GGA: **3.98** / 4.30
+<!-- - CGA: **4.00** / 4.30 -->
+
+<!-- **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)** -->
+<!-- - M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021* -->
+<!-- - GGA: **3.98** / 4.30 -->
 
 **University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
 - Summer School in [Machine Learning & Algorithms for Data Mining](https://www.lucy.cam.ac.uk/),  *Jul. 2018 -- Aug. 2018*
-- Received merit scholarship of 30,000 ¥
+<!-- - Received merit scholarship of 30,000 ¥ -->
 
 **Shanghai University [(SHU)](https://www.shu.edu.cn/)**
 - B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jun. 2020*
-- GGA: **3.70** / 4.00
+<!-- - GGA: **3.70** / 4.00 -->
 
 ## Awards
 * [_2021_] Postgraduate Studentship at HKUST (Top 5%)
