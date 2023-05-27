@@ -18,7 +18,7 @@ Research Interests
 ------
 - Large Language Models, Prompting
 - Contrastive Representation Learning, Data Augmentation
-- Argument Mining
+- Discourse Analysis, Argument Mining
 
 ## Education
 
