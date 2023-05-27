@@ -10,6 +10,10 @@ author_profile: true
 **Yuxin Jiang**, Chunkit Chan, Mingyang Chen, Wei Wang.\
 *Arxiv Preprint*, 2023. [[paper]](https://arxiv.org/abs/2305.12870) [[code](https://github.com/YJiangcm/Lion)]
 
+- **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
+Linhan Zhang, Qian Chen, Wen Wang, **Yuxin Jiang**, Bing Li, Wei Wang, Xin Cao.\
+*Arxiv Preprint*, 2023. [[paper]](https://arxiv.org/abs/2305.14717)
+
 - **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
 Chunkit Chan, Jiayang Cheng, Weiqi Wang, **Yuxin Jiang**, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Arxiv Preprint*, 2023. [[paper]](https://arxiv.org/abs/2304.14827)
