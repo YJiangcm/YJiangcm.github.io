@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiqi Wang 王伟琪 Mighty"
+title                    : "Tianqing Fang" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Weiqi Wang"
-description              : &description "First Year PhD Student in HKUST majoring in Computer Science and Mathematics"
-url                      : "https://mighty-weaver.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Tianqing Fang"
+description              : &description "Third-year Ph.D. in HKUST"
+url                      : https://tqfang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MighTy-Weaver/mighty-weaver.github.io"
+repository               : "tqfang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "hH8x6jxK4fwg67NBmPBD-FoQqhFQmURCKMu_f4e-lJI"
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weiqi Wang 王伟琪"
-  avatar           : "avatar.jpg"
-  bio              : "First Year Ph.D. Student at the Hong Kong University of Science and Technology"
+  name             : "Tianqing Fang"
+  avatar           : "profile-20211024.jpeg"
+  bio              : "Third-year Ph.D. in HKUST"
   location         : "Hong Kong SAR, China"
-  employer         : "HKUST-KnowComp"
+  employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ZKgZ7jEAAAAJ"
-  email            : "1874240442 [at] qq [dot] com"
-  researchgate     : "https://www.researchgate.net/profile/Weiqi_Wang15"
-  semanticscholar  : "https://www.semanticscholar.org/author/1587728690"
+  googlescholar    : "https://scholar.google.com/citations?user=Tb3rc34AAAAJ&hl=en"
+  email            :
+  researchgate     :
+  semanticscholar  : "https://www.semanticscholar.org/author/2044202073"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MighTy-Weaver"
+  github           : "tqfang"
   google_plus      :
   keybase          :
-  instagram        : "mighty_wa"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "weiqi-wang-a49b5019a/"
-  orcid            : "https://orcid.org/0000-0002-1617-9805"
+  linkedin         : "tianqing-fang-8bb54623b"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "mighty-weaver"
+  steam            :
   tumblr           :
-  twitter          : "MightyWeaver2"
+  twitter          : "TFang229"
   vine             :
   weibo            :
   xing             :
@@ -310,7 +310,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+    
 
 # # Welcome to Jekyll!
 # #
