@@ -16,27 +16,27 @@ This webpage is last updated on **May 23, 2023**.
 
 Research Interests
 ------
-- Large Language Models, Prompting
-- Contrastive Representation Learning, Data Augmentation
-- Discourse Analysis, Argument Mining
+* Large Language Models, Prompting
+* Contrastive Representation Learning, Data Augmentation
+* Discourse Analysis, Argument Mining
 
 ## Education
 
-**The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-- Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ipo.hkust.edu.hk/),  *Sep. 2021 -- Jun. 2025 (Expected)*
-- M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021*
+* **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
+* Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ipo.hkust.edu.hk/),  *Sep. 2021 -- Jun. 2025 (Expected)*
+* M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021*
 <!-- - CGA: **4.00** / 4.30 -->
 
 <!-- **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)** -->
 <!-- - M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021* -->
 <!-- - GGA: **3.98** / 4.30 -->
 
-**University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
-- Summer School in [Machine Learning & Algorithms for Data Mining](https://www.lucy.cam.ac.uk/),  *Jul. 2018 -- Aug. 2018*
+* **University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
+* Summer School in [Machine Learning & Algorithms for Data Mining](https://www.lucy.cam.ac.uk/),  *Jul. 2018 -- Aug. 2018*
 <!-- - Received merit scholarship of 30,000 ¥ -->
 
-**Shanghai University [(SHU)](https://www.shu.edu.cn/)**
-- B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jun. 2020*
+* **Shanghai University [(SHU)](https://www.shu.edu.cn/)**
+* B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jun. 2020*
 <!-- - GGA: **3.70** / 4.00 -->
 
 ## Awards
@@ -48,11 +48,11 @@ Research Interests
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship and Excellent Student at Shanghai University (Top 5%)
 
 ## Teaching Assistant
-- INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
+* INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
-- Conference Reviewer: EMNLP 2022, ACL 2023.
-- Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023, SIGIR 2023.
+* Conference Reviewer: EMNLP 2022, ACL 2023.
+* Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023, SIGIR 2023.
 
 ## Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
