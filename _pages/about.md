@@ -48,7 +48,7 @@ Research Interests
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship and Excellent Student at Shanghai University (Top 5%)
 
 ## Teaching Assistant
-INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
+- INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
 - Conference Reviewer: EMNLP 2022, ACL 2023.
