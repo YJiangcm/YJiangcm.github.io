@@ -54,6 +54,6 @@ Published in *JP Journal of Algebra, Number Theory and Applications 40 (4), 2018
 
 ## Workshop
 - **XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning**\
-**Yuxin Jiang**, Ziyi Shou, Qijun Wang, Hao Wu, Fangzhen Lin.\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Ziyi Shou, Qijun Wang, Hao Wu, Fangzhen Lin.\
 Published in *Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*
 [[paper](https://aclanthology.org/2021.semeval-1.105/)] [[code](https://github.com/zzshou/RCAM)]
