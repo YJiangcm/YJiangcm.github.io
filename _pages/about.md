@@ -38,6 +38,7 @@ This webpage is last updated on **May 23, 2023**.
 <!-- - GGA: **3.70** / 4.00 -->
 
 ## Awards
+* [_2023_] Top 3% Paper Recognition at ICASSP 2023 (Top 3%)
 * [_2021_] Postgraduate Studentship at HKUST (Top 5%)
 * [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
 * [_2020_] School of Engineering Entrance Scholarship at HKUST (Top 10%)
