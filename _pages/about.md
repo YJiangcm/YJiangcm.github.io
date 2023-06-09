@@ -50,7 +50,7 @@ This webpage is last updated on **May 23, 2023**.
 * INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
-* Conference Reviewer: EMNLP 2022, ACL 2023.
+* Conference Reviewer: EMNLP 2022, ACL 2023, EMNLP 2023.
 * Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023, SIGIR 2023.
 
 ## Sitemap
