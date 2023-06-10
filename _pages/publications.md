@@ -5,10 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ## Preprint
 - **Lion: Adversarial Distillation of Closed-Source Large Language Model**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan, Mingyang Chen, Wei Wang.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2305.12870) [[code](https://github.com/YJiangcm/Lion)] [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
+<a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
 
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
