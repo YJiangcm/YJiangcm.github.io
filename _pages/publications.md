@@ -27,7 +27,8 @@ Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Ji
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
 Accepted at *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
-[[pdf]](https://arxiv.org/abs/2211.13873) [[code](https://github.com/YJiangcm/GOLF_for_IDRR)] [[bibtex](https://dblp.org/rec/journals/corr/abs-2211-13873.html?view=bibtex)]
+[[pdf]](https://arxiv.org/abs/2211.13873) [[bibtex](https://dblp.org/rec/journals/corr/abs-2211-13873.html?view=bibtex)]
+<a class="github-button" href="https://github.com/YJiangcm/GOLF_for_IDRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GOLF-for-IDRR</a>
 
 - **Weighted Sampling for Masked Language Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Xin Cao, Kongzhang Hao, <span style="color:darkblue">**Yuxin Jiang**</span>, Wei Wang.\
@@ -37,13 +38,14 @@ Published in *2023 IEEE International Conference on Acoustics, Speech, and Signa
 - **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
 Published in *Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2022)*
-[[pdf](https://aclanthology.org/2022.findings-emnlp.220/)] [[code](https://github.com/YJiangcm/PromCSE)] [[bibtex](https://dblp.org/rec/conf/emnlp/JiangZW22.html?view=bibtex)]
+[[pdf](https://aclanthology.org/2022.findings-emnlp.220/)] [[bibtex](https://dblp.org/rec/conf/emnlp/JiangZW22.html?view=bibtex)]
+<a class="github-button" href="https://github.com/YJiangcm/PromCSE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">PromCSE</a>
 
 - **AMR-DA: Data Augmentation by Abstract Meaning Representation**\
 Ziyi Shou, <span style="color:darkblue">**Yuxin Jiang**</span>, Fangzhen Lin.\
 Published in *Findings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022)*
-[[pdf](https://aclanthology.org/2022.findings-acl.244/)] [[code](https://github.com/zzshou/amr-data-augmentation)] [[bibtex](https://dblp.org/rec/conf/acl/ShouJL22.html?view=bibtex)]
-
+[[pdf](https://aclanthology.org/2022.findings-acl.244/)] [[bibtex](https://dblp.org/rec/conf/acl/ShouJL22.html?view=bibtex)]
+<a class="github-button" href="https://github.com/zzshou/amr-data-augmentation" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">AMR-Data-Augmentation</a>
 
 ## Journal
 - **Determinant of a rectangular matrix over the quaternion algebra**\
@@ -60,4 +62,6 @@ Published in *JP Journal of Algebra, Number Theory and Applications 40 (4), 2018
 - **XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Ziyi Shou, Qijun Wang, Hao Wu, Fangzhen Lin.\
 Published in *Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*
-[[pdf](https://aclanthology.org/2021.semeval-1.105/)] [[code](https://github.com/zzshou/RCAM)] [[bibtex](https://dblp.org/rec/conf/semeval/JiangSWWL21.html?view=bibtex)]
+[[pdf](https://aclanthology.org/2021.semeval-1.105/)] [[bibtex](https://dblp.org/rec/conf/semeval/JiangSWWL21.html?view=bibtex)]
+<a class="github-button" href="https://github.com/zzshou/RCAM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WN-DUMA</a>
+
