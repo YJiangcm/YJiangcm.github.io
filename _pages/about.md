@@ -21,12 +21,12 @@ This webpage is last updated on **May 23, 2023**.
 
 ## Education
 * **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-  * Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ipo.hkust.edu.hk/),  *Sep. 2021 -- Jun. 2025 (Expected)*
-  * M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021*
+  * Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ipo.hkust.edu.hk/),  *Sep. 2021 -- Jul. 2025 (Expected)*
+  * M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021*
 <!-- - CGA: **4.00** / 4.30 -->
 
 <!-- **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)** -->
-<!-- - M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jun. 2021* -->
+<!-- - M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021* -->
 <!-- - GGA: **3.98** / 4.30 -->
 
 * **University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
@@ -34,7 +34,7 @@ This webpage is last updated on **May 23, 2023**.
 <!-- - Received merit scholarship of 30,000 ¥ -->
 
 * **Shanghai University [(SHU)](https://www.shu.edu.cn/)**
-  * B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jun. 2020*
+  * B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jul. 2020*
 <!-- - GGA: **3.70** / 4.00 -->
 
 ## Awards
