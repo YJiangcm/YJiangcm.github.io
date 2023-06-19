@@ -42,7 +42,7 @@ This webpage is last updated on **May 23, 2023**.
 * [_2021_] Postgraduate Studentship at HKUST (Top 5%)
 * [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
 * [_2020_] School of Engineering Entrance Scholarship at HKUST (Top 10%)
-* [_2020_] Excellent Graduate of Shanghai (Top 1%)
+* [_2020_] Outstanding Graduates of Shanghai (Top 1%)
 * [_2019_] Third Prize at Science and Technology Innovation Competition for Undergraduates (Top 20%)
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship and Excellent Student at Shanghai University (Top 5%)
 
