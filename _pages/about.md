@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About me -->
 <br>
-I am currently a 2nd year Ph.D. student at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Langauge Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematic and Applied Mathematic from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.
+I am currently a 2nd year Ph.D. student at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Language Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematics and Applied Mathematics from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.
 
 This webpage is last updated on **May 23, 2023**.
 
@@ -44,7 +44,7 @@ This webpage is last updated on **May 23, 2023**.
 * [_2020_] School of Engineering Entrance Scholarship at HKUST (Top 10%)
 * [_2020_] Outstanding Graduates of Shanghai (Top 1%)
 * [_2019_] Third Prize at Science and Technology Innovation Competition for Undergraduates (Top 20%)
-* [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship and Excellent Student at Shanghai University (Top 5%)
+* [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship, and Excellent Student at Shanghai University (Top 5%)
 
 ## Teaching Assistant
 * INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
