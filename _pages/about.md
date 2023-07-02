@@ -51,7 +51,7 @@ This webpage is last updated on **July 1, 2023**.
 
 ## Academic Service
 * Conference Reviewer: EMNLP 2022, ACL 2023, EMNLP 2023.
-* Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023, SIGIR 2023.
+* Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023, SIGIR 2023, NeurIPS 2023.
 
 ## Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
