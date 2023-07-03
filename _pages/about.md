@@ -21,7 +21,7 @@ This webpage is last updated on **July 1, 2023**.
 
 ## Education
 * **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-  * Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ipo.hkust.edu.hk/),  *Sep. 2021 -- Jul. 2025 (Expected)*
+  * Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ais.hkust.edu.hk/),  *Sep. 2021 -- Jul. 2025 (Expected)*
   * M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021*
 <!-- - CGA: **4.00** / 4.30 -->
 
