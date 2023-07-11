@@ -26,8 +26,8 @@ Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Ji
 ## Conference
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
-Accepted at *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
-[[pdf]](https://arxiv.org/abs/2211.13873) [[bibtex](https://dblp.org/rec/journals/corr/abs-2211-13873.html?view=bibtex)]
+Published in *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
+[[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex](https://dblp.org/rec/journals/corr/abs-2211-13873.html?view=bibtex)]
 <a class="github-button" href="https://github.com/YJiangcm/GOLF_for_IDRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GOLF-for-IDRR</a>
 
 - **Weighted Sampling for Masked Language Modeling**\
