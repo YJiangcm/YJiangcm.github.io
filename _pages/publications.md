@@ -8,6 +8,8 @@ author_profile: true
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
+\*: Equal Contribution
+
 ## Preprint
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
@@ -65,5 +67,3 @@ Jialing Liu, Juntong Liu, <span style="color:darkblue">**Yuxin Jiang**</span>.\
 [[pdf](https://aclanthology.org/2021.semeval-1.105/)] [[bibtex](https://dblp.org/rec/conf/semeval/JiangSWWL21.html?view=bibtex)]
 <a class="github-button" href="https://github.com/zzshou/RCAM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WN-DUMA</a>
 
-
-\*: Equal Contribution
