@@ -19,9 +19,9 @@ Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Ji
 
 
 ## Conference
-- **Lion: Adversarial Distillation of Closed-Source Large Language Model**\
+- **Lion: Adversarial Distillation of Proprietary Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan, Mingyang Chen, Wei Wang.\
-*Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
+*Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)* [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
 <a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
 
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
