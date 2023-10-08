@@ -9,11 +9,6 @@ author_profile: true
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 ## Preprint
-- **Lion: Adversarial Distillation of Closed-Source Large Language Model**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan, Mingyang Chen, Wei Wang.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
-<a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
-
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2305.14717)
@@ -24,6 +19,11 @@ Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Ji
 
 
 ## Conference
+- **Lion: Adversarial Distillation of Closed-Source Large Language Model**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan, Mingyang Chen, Wei Wang.\
+Accepted to *Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)*. [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
+<a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
+
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
 Published in *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
