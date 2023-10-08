@@ -20,7 +20,7 @@ Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Ji
 
 ## Conference
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan*, Mingyang Chen*, Wei Wang.\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
 *Conference on Empirical Methods in Natural Language Processing (EMNLP-2023)* [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
 <a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
 
@@ -60,10 +60,10 @@ Jialing Liu, Juntong Liu, <span style="color:darkblue">**Yuxin Jiang**</span>.\
 
 ## Workshop
 - **XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning**\
-<span style="color:darkblue">**Yuxin Jiang***</span>, Ziyi Shou*, Qijun Wang, Hao Wu, Fangzhen Lin.\
+<span style="color:darkblue">**Yuxin Jiang\***</span>, Ziyi Shou\*, Qijun Wang, Hao Wu, Fangzhen Lin.\
 *Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*
 [[pdf](https://aclanthology.org/2021.semeval-1.105/)] [[bibtex](https://dblp.org/rec/conf/semeval/JiangSWWL21.html?view=bibtex)]
 <a class="github-button" href="https://github.com/zzshou/RCAM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WN-DUMA</a>
 
 
-*: Equal Contribution
+\*: Equal Contribution
