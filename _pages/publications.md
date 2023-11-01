@@ -10,6 +10,11 @@ author_profile: true
 
 
 ## Preprint
+- **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
+*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2310.20410) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)]
+<a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
+
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2305.14717) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-14717.html?view=bibtex)]
