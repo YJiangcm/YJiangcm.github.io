@@ -54,7 +54,7 @@ Ziyi Shou, <span style="color:darkblue">**Yuxin Jiang**</span>, Fangzhen Lin.\
 <a class="github-button" href="https://github.com/zzshou/amr-data-augmentation" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">AMR-Data-Augmentation</a>
 
 ## Journal
-- **Determinant of a rectangular matrix over the quaternion algebra**\
+- **Determinant of a Rectangular Matrix over the Quaternion Algebra**\
 Pingping Song, <span style="color:darkblue">**Yuxin Jiang**</span>, Yuting Shen.\
 *Journal of Shanghai University (Natural Science Edition), 2019*
 
