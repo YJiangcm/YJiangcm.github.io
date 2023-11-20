@@ -17,7 +17,7 @@ Currently, I serve as a research intern in Speech and Semantic Group of Huawei N
 (This webpage was last updated on **Nov 1, 2023**)
 
 ## Research Interests
-* **Instruction Following of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
+* **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
 * **Discourse Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
 
