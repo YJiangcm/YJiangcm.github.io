@@ -19,12 +19,13 @@ author_profile: true
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2305.14717) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-14717.html?view=bibtex)]
 
-- **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
-Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Tianqing Fang, Xin Liu, Yangqiu Song.\
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2304.14827) [[bibtex](https://dblp.org/rec/journals/corr/abs-2304-14827.html?view=bibtex)]
-
 
 ## Conference
+- **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
+Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Tianqing Fang, Xin Liu, Yangqiu Song.\
+*Findings of the 18th Conference of the European Chapter
+of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://arxiv.org/abs/2304.14827) [[bibtex](https://dblp.org/rec/journals/corr/abs-2304-14827.html?view=bibtex)]
+
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
 *Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2023, <span style="color:red">**Oral**</span>)* [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
