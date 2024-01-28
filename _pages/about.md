@@ -52,7 +52,7 @@ Currently, I serve as a research intern in Speech and Semantic Group of Huawei N
 * INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
-* Conference Reviewer: EMNLP 2022, ACL 2023, EMNLP 2023, ACL Rolling Review 2023.
+* Conference Reviewer: EMNLP 2022, ACL 2023, EMNLP 2023, ACL Rolling Review 2023, ACL Rolling Review 2024.
 * Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023, SIGIR 2023, NeurIPS 2023.
 
 ## Sitemap
