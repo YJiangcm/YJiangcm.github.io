@@ -14,7 +14,7 @@ I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Techn
 
 Currently, I serve as a research intern in Speech and Semantic Group of Huawei Noah's Ark Lab (Hong Kong). 
 
-(This webpage was last updated on **Nov 1, 2023**)
+(This webpage was last updated on **Feb 1, 2024**)
 
 ## Research Interests
 * **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
