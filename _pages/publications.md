@@ -10,6 +10,11 @@ author_profile: true
 
 
 ## Preprint
+- **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
+Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/abs/2401.16745)
+<a class="github-button" href="https://github.com/KwanWaiChung/MT-Eval" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MT-Eval</a>
+
 - **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
 *Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2310.20410) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)]
@@ -25,6 +30,7 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Findings of the 18th Conference of the European Chapter
 of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://arxiv.org/abs/2304.14827) [[bibtex](https://dblp.org/rec/journals/corr/abs-2304-14827.html?view=bibtex)]
+<a class="github-button" href="https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">ChatGPT-Inter-Sentential-Relations</a>
 
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
