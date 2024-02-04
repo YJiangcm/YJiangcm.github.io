@@ -49,6 +49,7 @@ Currently, I serve as a research intern in Speech and Semantic Group of Huawei N
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship, and Excellent Student at Shanghai University (Top 5%)
 
 ## Teaching Assistant
+* INFH6780: Career Development for Information Hub Students. (Spring 2024)
 * INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
