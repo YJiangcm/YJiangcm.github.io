@@ -34,19 +34,19 @@ of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://ar
 
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
-*Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2023, <span style="color:red">**Oral**</span>)* [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/journals/corr/abs-2305-12870.html?view=bibtex)]
+*Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2023, <span style="color:red">**Oral**</span>)* [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)]
 <a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
 
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
 *Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
-[[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex](https://dblp.org/rec/journals/corr/abs-2211-13873.html?view=bibtex)]
+[[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex](https://dblp.org/rec/conf/acl/JiangZ023.html?view=bibtex)]
 <a class="github-button" href="https://github.com/YJiangcm/GOLF_for_IDRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GOLF-for-IDRR</a>
 
 - **Weighted Sampling for Masked Language Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Xin Cao, Kongzhang Hao, <span style="color:darkblue">**Yuxin Jiang**</span>, Wei Wang.\
 *2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP-2023, <span style="color:red">**Top 3% Paper Recognition**</span>)*
-[[pdf](https://ieeexplore.ieee.org/document/10096946)] [[bibtex](https://dblp.org/rec/journals/corr/abs-2302-14225.html?view=bibtex)]
+[[pdf](https://ieeexplore.ieee.org/document/10096946)] [[bibtex](https://dblp.org/rec/conf/icassp/ZhangCWDCHJW23.html?view=bibtex)]
 
 - **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
