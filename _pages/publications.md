@@ -12,7 +12,7 @@ author_profile: true
 ## Preprint
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/abs/2401.16745)
+*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/abs/2401.16745) [[bibtex](https://dblp.org/rec/journals/corr/abs-2401-16745.html?view=bibtex)]
 <a class="github-button" href="https://github.com/KwanWaiChung/MT-Eval" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MT-Eval</a>
 
 - **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
