@@ -5,6 +5,14 @@ permalink: /internship/
 author_profile: true
 ---
 
+## **Research Intern**
+_**([Huawei Noah's Ark Lab, Speech and Semantic Group](http://dev3.noahlab.com.hk/index.html), Hong Kong, Sep. 2023 - Feb. 2024)**_
+_**, mentored by [Dr. Yufei Wang](https://scholar.google.com/citations?user=gFoSqqkAAAAJ)**_
+* Instruction-Following Evaluation of LLMs: Constructed FollowBench, a multi-level fine-grained constraints following benchmark for systemically and precisely evaluating the instruction-following capability of LLMs.
+* Multi-Turn Evaluation of LLMs: Introduced MT-Eval, a comprehensive benchmark designed to evaluate multi-turn conversational abilities of LLMs.
+* Long-Context Evaluation of LLMs: Proposed M4LE, a Multi-ability, Multi-range, Multi-task, Multi-domain long-context evaluation benchmark, covering a wide range of tasks and domains across five context length buckets up to 12k.
+* Knowledge Editing of LLMs: Proposed a learning to edit (LTE) framework, designed to enhance the capability of LLMs for effective, efficient knowledge editing.
+
 ## **Modeling & Algorithm Intern**
 _**([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)**_
 
