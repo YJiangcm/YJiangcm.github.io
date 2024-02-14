@@ -12,7 +12,7 @@ redirect_from:
 <br>
 I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Language Processing (NLP) as well as its applications. Previously, I received a B.S. in Mathematics and Applied Mathematics from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020 and a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.
 
-Currently, I serve as a research intern in Speech and Semantic Group of Huawei Noah's Ark Lab (Hong Kong). 
+<!-- Currently, I serve as a research intern in Speech and Semantic Group of Huawei Noah's Ark Lab (Hong Kong).  -->
 
 (This webpage was last updated on **Feb 1, 2024**)
 
