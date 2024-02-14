@@ -32,6 +32,7 @@ _**([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)**_
 
 ## **Data Analysis Intern**
 _**([Chinese Academy of Science, Institute of Neuroscience](http://www.ion.ac.cn/), Shanghai, Apr. 2019 - Sep. 2019)**_
+_**, mentored by [Prof. Jun Yan](http://www.cebsit.cas.cn/yjz/yj_/ry/)**_
 
 * Researched on systematical classification of mouse suprachiasmatic nucleus, completed the process from data cleaning to K-Means modeling by using Python independently.
 
