@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Yuxin Jiang"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -40,6 +39,7 @@ I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Techn
 <!-- - GGA: **3.70** / 4.00 -->
 
 ## Awards
+* [_2023_] Research Travel Grant Award at HKUST
 * [_2023_] Top 3% Paper Recognition of all papers accepted at ICASSP 2023 (Top 1%)
 * [_2021_] Postgraduate Studentship at HKUST (Top 5%)
 * [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
