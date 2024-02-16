@@ -15,7 +15,7 @@ _**, mentored by [Dr. Yufei Wang](https://scholar.google.com/citations?user=gFoS
 
 * Long-Context Evaluation of LLMs: Proposed M4LE, a Multi-ability, Multi-range, Multi-task, Multi-domain long-context evaluation benchmark, covering a wide range of tasks and domains across five context length buckets up to 12k.
 
-* Knowledge Editing of LLMs: Proposed the Learning to Edit (LTE) framework for effective and efficient knowledge editing of LLMs.
+* Knowledge Editing of LLMs: Proposed a Learning to Edit (LTE) framework for effective and efficient knowledge editing of LLMs.
 
 ## **Modeling & Algorithm Intern**
 _**([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)**_
