@@ -10,6 +10,11 @@ author_profile: true
 
 
 ## Preprint
+- **Learning to Edit: Aligning LLMs with Knowledge Editing**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
+*Arxiv Preprint*, 2024.
+<a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
+
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/abs/2401.16745) [[bibtex](https://dblp.org/rec/journals/corr/abs-2401-16745.html?view=bibtex)]
