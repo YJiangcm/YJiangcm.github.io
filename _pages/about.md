@@ -49,15 +49,29 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/hkust_logo-svg.jpg" width="300">
+                <img src="images/hkust_logo-svg.jpg" width="200">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-                <b><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>.</b>
+                <b><a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a></b>
                 <br>
                 Ph.D. in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Data Science and Analytics)</a>
                 <br>
                 Sep. 2021 -- Jul. 2025 (Expected) 
+            </td>            
+        </tr>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/hkust_logo-svg.jpg" width="200">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a></b>
+                <br>
+                M.S. in <a href="https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt">Big Data and Technology</a>
+                <br>
+                Sep. 2020 -- Jul. 2021 
             </td>            
         </tr>
         
