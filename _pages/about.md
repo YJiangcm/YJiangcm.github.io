@@ -1,18 +1,16 @@
 ---
 permalink: /
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 ## Biography
-<br>
 I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Language Processing (NLP) as well as its applications. Previously, I received a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021 and a B.S. in Mathematics and Applied Mathematics from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020.
 
-<!-- Currently, I serve as a research intern in Speech and Semantic Group of Huawei Noah's Ark Lab (Hong Kong).  -->
-
 (This webpage was last updated on **Feb 20, 2024**)
+
 
 ## Research Interests
 * **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
