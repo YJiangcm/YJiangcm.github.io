@@ -5,18 +5,18 @@ permalink: /internship/
 author_profile: true
 ---
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1em;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.2em;">
     <tbody>
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/huawei_logo.png" width="200">
+                <img src="https://github.com/YJiangcm/YJiangcm.github.io/raw/master/images/huawei_logo.png" width="200">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
                 <b><a href="http://dev3.noahlab.com.hk/index.html">Huawei Noah's Ark Lab, Speech and Semantic Group</a></b>
                 <br>
-                **Research Intern**
+                <b>Research Intern</b>
                 <br>
                 Sep. 2023 -- Feb. 2024, Hong Kong
                 <br>
@@ -26,13 +26,13 @@ author_profile: true
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/beike_logo.png" width="200">
+                <img src="https://github.com/YJiangcm/YJiangcm.github.io/raw/master/images/beike_logo.png" width="200">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
                 <b><a href="https://www.bkjk.com/">BEIKE FINANCE</a></b>
                 <br>
-                **Modeling & Algorithm Intern**
+                <b>Modeling & Algorithm Intern</b>
                 <br>
                 Mar. 2020 -- Aug. 2020, Shanghai
             </td>            
