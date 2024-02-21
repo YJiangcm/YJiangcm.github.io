@@ -17,9 +17,9 @@ author_profile: true
                 <br>
                 <b>Research Intern</b>
                 <br>
-                Sep. 2023 -- Feb. 2024, Hong Kong
+                <b>Sep. 2023 -- Feb. 2024, Hong Kong</b>
                 <br>
-                Mentored by <a href="https://scholar.google.com/citations?user=gFoSqqkAAAAJ">Dr. Yufei Wang</a>
+                <b>Mentored by <a href="https://scholar.google.com/citations?user=gFoSqqkAAAAJ">Dr. Yufei Wang</a></b>
             </td>            
         </tr>
     </tbody>
@@ -43,7 +43,7 @@ _**, mentored by [Dr. Yufei Wang](https://scholar.google.com/citations?user=gFoS
 
 
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.2em;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
     <tbody>
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
@@ -55,7 +55,7 @@ _**, mentored by [Dr. Yufei Wang](https://scholar.google.com/citations?user=gFoS
                 <br>
                 <b>Modeling & Algorithm Intern</b>
                 <br>
-                Mar. 2020 -- Aug. 2020, Shanghai
+                <b>Mar. 2020 -- Aug. 2020, Shanghai</b>
             </td>            
         </tr>
     </tbody>
@@ -79,7 +79,7 @@ _**([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)**_
 
 
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.2em;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
     <tbody>
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
@@ -91,9 +91,9 @@ _**([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)**_
                 <br>
                 <b>Data Analysis Intern</b>
                 <br>
-                Apr. 2019 -- Sep. 2019, Shanghai
+                <b>Apr. 2019 -- Sep. 2019, Shanghai</b>
                 <br>
-                Mentored by <a href="http://www.cebsit.cas.cn/yjz/yj_/ry/">Prof. Jun Yan</a>
+                <b>Mentored by <a href="http://www.cebsit.cas.cn/yjz/yj_/ry/">Prof. Jun Yan</a></b>
             </td>            
         </tr>
     </tbody>
@@ -114,7 +114,7 @@ _**, mentored by [Prof. Jun Yan](http://www.cebsit.cas.cn/yjz/yj_/ry/)**_
 
 
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.2em;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
     <tbody>
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
@@ -126,7 +126,7 @@ _**, mentored by [Prof. Jun Yan](http://www.cebsit.cas.cn/yjz/yj_/ry/)**_
                 <br>
                 <b>System & Data Intern</b>
                 <br>
-                Jan. 2019 - Feb. 2019, Shanghai
+                <b>Jan. 2019 - Feb. 2019, Shanghai</b>
             </td>            
         </tr>
     </tbody>
