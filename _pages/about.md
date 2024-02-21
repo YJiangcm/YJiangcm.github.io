@@ -1,3 +1,8 @@
+h1 {
+    display: none;
+    margin: 0;
+}
+
 ---
 permalink: /
 title: " "
