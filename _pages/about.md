@@ -8,14 +8,10 @@ redirect_from:
 ---
 
 <style>
-  .hide-title h1 {
+  h1.page-title {
     display: none;
   }
 </style>
-
-<div class="hide-title">
-  <h1> </h1>
-</div>
 
 
 ## Biography
