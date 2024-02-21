@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "姜宇心"
+title                    : "Yuxin Jiang"
 title_separator          : "-"
-name                     : &name "Yuxin Jiang"
+name                     : &name ""
 description              : &description "3rd year Ph.D. candidate at HKUST"
 url                      : https://YJiangcm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
