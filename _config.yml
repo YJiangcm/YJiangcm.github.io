@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxin Jiang"
-title_separator          : "-"
-name                     : &name ""
+# title                    : "Yuxin Jiang"
+# title_separator          : "-"
+name                     : &name "Yuxin Jiang"
 description              : &description "3rd year Ph.D. candidate at HKUST"
 url                      : https://YJiangcm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -311,5 +311,4 @@ compress_html:
   ignore:
     envs: development
     
-#favicon ---- 注意要将名称改成这个才可以显示图标，必须是png格式
-favicon: image/favicon.svg
+favicon: images/favicon.svg
