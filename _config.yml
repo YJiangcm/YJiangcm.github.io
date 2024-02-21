@@ -311,4 +311,6 @@ compress_html:
   ignore:
     envs: development
     
-favicon: /images/favicon.ico
+favicon:
+small: /images/favicon16.ico
+medium: /images/favicon32.ico
