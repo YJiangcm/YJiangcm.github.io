@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Biography"
+<!-- title: "Yuxin Jiang" -->
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- ## About me -->
+## Biography
 <br>
 I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://home.cse.ust.hk/~weiwcs/), I am working on Natural Language Processing (NLP) as well as its applications. Previously, I received a M.S. in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021 and a B.S. in Mathematics and Applied Mathematics from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020.
 
