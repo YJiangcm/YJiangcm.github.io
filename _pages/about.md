@@ -20,23 +20,50 @@ I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Techn
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
 * **Discourse Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
 
+My publications can be found [here](https://yjiangcm.github.io/publications/).
+
 ## Education
+
+<!--
 * **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
   * Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ais.hkust.edu.hk/),  *Sep. 2021 -- Jul. 2025 (Expected)*
   * M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021*
-<!-- - CGA: **4.00** / 4.30 -->
+ - CGA: **4.00** / 4.30
 
-<!-- **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)** -->
-<!-- - M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021* -->
-<!-- - GGA: **3.98** / 4.30 -->
+* **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
+- M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021*
+- GGA: **3.98** / 4.30
 
 * **University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
   * Summer School in [Machine Learning & Algorithms for Data Mining](https://www.lucy.cam.ac.uk/),  *Jul. 2018 -- Aug. 2018*
-<!-- - Received merit scholarship of 30,000 ¥ -->
+- Received merit scholarship of 30,000 ¥
 
 * **Shanghai University [(SHU)](https://www.shu.edu.cn/)**
   * B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jul. 2020*
-<!-- - GGA: **3.70** / 4.00 -->
+- GGA: **3.70** / 4.00
+-->
+
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+    <tbody>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/hkust_logo-svg.jpg" width="300">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>.</b>
+                <br>
+                Ph.D. in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Data Science and Analytics)</a>
+                <br>
+                Sep. 2021 -- Jul. 2025 (Expected) 
+            </td>            
+        </tr>
+        
+    </tbody>
+</table>
+
 
 ## Awards
 * [_2023_] Research Travel Grant Award at HKUST
