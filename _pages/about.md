@@ -18,7 +18,7 @@ I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Techn
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
 * **Discourse Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
 
-My publications can be found [here](https://yjiangcm.github.io/publications/).
+My publications can be found [HERE](https://yjiangcm.github.io/publications/).
 
 ## Education
 
