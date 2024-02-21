@@ -1,17 +1,11 @@
 ---
 permalink: /
-title: ""
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<style>
-  h1.page-title {
-    display: none;
-  }
-</style>
 
 
 ## Biography
