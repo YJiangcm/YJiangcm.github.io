@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxin Jiang"
+title                    : "Yuxin Jiang's homepage"
 title_separator          : "-"
-name                     : &name "Homepage"
+name                     : &name "Yuxin Jiang"
 description              : &description "3rd year Ph.D. candidate at HKUST"
 url                      : https://YJiangcm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -253,7 +253,7 @@ sass:
 
 
 # Outputting
-permalink: /:title/:categories/
+permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
