@@ -49,7 +49,7 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/hkust_logo-svg.jpg" width="240">
+                <img src="images/hkust_logo-svg.jpg" width="220">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
@@ -63,7 +63,7 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/hkust_logo-svg.jpg" width="240">
+                <img src="images/hkust_logo-svg.jpg" width="220">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
@@ -77,7 +77,7 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/camb_logo.jpg" width="240">
+                <img src="images/camb_logo.jpg" width="220">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
@@ -91,7 +91,7 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/camb_logo.jpg" width="240">
+                <img src="images/shu_logo.png" width="220">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
