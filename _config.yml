@@ -311,4 +311,4 @@ compress_html:
   ignore:
     envs: development
     
-favicon: /images/favicon.svg
+favicon: /images/favicon.ico
