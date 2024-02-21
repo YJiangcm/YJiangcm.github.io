@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxin Jiang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yuxin Jiang"
 description              : &description "3rd year Ph.D. candidate at HKUST"
@@ -311,4 +311,4 @@ compress_html:
   ignore:
     envs: development
     
-favicon: /images/favicon.svg
+favicon: /image/favicon.svg
