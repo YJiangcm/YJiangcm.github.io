@@ -5,7 +5,7 @@ permalink: /internship/
 author_profile: true
 ---
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.2em;">
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:1.0em;">
     <tbody>
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
