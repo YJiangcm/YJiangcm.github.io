@@ -49,7 +49,7 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/hkust_logo-svg.jpg" width="200">
+                <img src="images/hkust_logo-svg.jpg" width="240">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
@@ -57,13 +57,13 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
                 <br>
                 Ph.D. in <a href="https://ais.hkust.edu.hk/">Individualized Interdisciplinary Program (Data Science and Analytics)</a>
                 <br>
-                Sep. 2021 -- Jul. 2025 (Expected) 
+                Sep. 2021 -- Jul. 2025 (Expected)
             </td>            
         </tr>
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/hkust_logo-svg.jpg" width="200">
+                <img src="images/hkust_logo-svg.jpg" width="240">
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
@@ -71,7 +71,35 @@ My publications can be found [here](https://yjiangcm.github.io/publications/).
                 <br>
                 M.S. in <a href="https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt">Big Data and Technology</a>
                 <br>
-                Sep. 2020 -- Jul. 2021 
+                Sep. 2020 -- Jul. 2021
+            </td>            
+        </tr>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/camb_logo.jpg" width="240">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://www.cam.ac.uk/">University of Cambridge</a></b>
+                <br>
+                Summer School in <a href="https://www.lucy.cam.ac.uk/">Machine Learning & Algorithms for Data Mining</a>
+                <br>
+                Jul. 2018 -- Aug. 2018
+            </td>            
+        </tr>
+
+        <tr>
+            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
+                <img src="images/camb_logo.jpg" width="240">
+            </td>
+            
+            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
+                <b><a href="https://www.shu.edu.cn/">Shanghai University</a></b>
+                <br>
+                B.S. in <a href="https://qwc.shu.edu.cn/">Mathematics and Applied Mathematics</a>
+                <br>
+                Sep. 2016 -- Jul. 2020
             </td>            
         </tr>
         
