@@ -126,8 +126,8 @@ My publications can be found [HERE](https://yjiangcm.github.io/publications/).
 * INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
-* Conference Reviewer: EMNLP 2022, ACL 2023, EMNLP 2023, ACL Rolling Review 2023, ACL Rolling Review 2024.
-* Conference External Reviewer: DASFAA 2021, SIGIR 2022, ICDE 2023, SIGIR 2023, NeurIPS 2023.
+* Conference Reviewer: EMNLP'22, 23, ACL'23, ACL Rolling Review'23, 24.
+* Conference External Reviewer: DASFAA'21, SIGIR'22, 23, ICDE'23, NeurIPS'23.
 
 ## Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
