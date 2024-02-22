@@ -115,6 +115,12 @@ My publications can be found [HERE](https://yjiangcm.github.io/publications/).
 * [_2019_] Third Prize at Science and Technology Innovation Competition for Undergraduates (Top 20%)
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship, and Excellent Student at Shanghai University (Top 5%)
 
+## Talks
+* 2023 December: EMNLP Conference on Large Language Models and the Future of NLP. **Lion: Adversarial Distillation of Proprietary Large Language Models**.
+[[slides](https://app.underline.io/downloadable_materials/lectures/88861/slideshow)]
+[[video](https://underline.io/events/431/sessions/16395/lecture/88861-lion-adversarial-distillation-of-proprietary-large-language-models)]
+
+
 ## Teaching Assistant
 * INFH6780: Career Development for Information Hub Students. (Spring 2024)
 * INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
