@@ -39,7 +39,7 @@ of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://ar
 
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
-*Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2023, <span style="color:red">**Oral**</span>)* [[pdf]](https://arxiv.org/abs/2305.12870) [[bibtex](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)]
+*Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2023, <span style="color:red">**Oral**</span>)* [[pdf]](https://aclanthology.org/2023.emnlp-main.189/) [[bibtex](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)]
 <a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
 
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
