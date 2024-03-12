@@ -118,7 +118,7 @@ My publications can be found [HERE](https://yjiangcm.github.io/publications/).
 ## Talks
 * 2023 December: EMNLP Conference on Large Language Models and the Future of NLP. **Lion: Adversarial Distillation of Proprietary Large Language Models**.
 [[slides](https://app.underline.io/downloadable_materials/lectures/88861/slideshow)]
-[[video](https://underline.io/events/431/sessions/16395/lecture/88861-lion-adversarial-distillation-of-proprietary-large-language-models)]
+[[video](https://aclanthology.org/2023.emnlp-main.189.mp4)]
 
 
 ## Teaching Assistant
