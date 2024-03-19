@@ -31,10 +31,10 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 
 
 ## Conference
-- **ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
+- **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
 Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Findings of the 18th Conference of the European Chapter
-of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://arxiv.org/abs/2304.14827) [[bibtex](https://dblp.org/rec/journals/corr/abs-2304-14827.html?view=bibtex)]
+of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://aclanthology.org/2024.findings-eacl.47/) [[bibtex](https://dblp.org/rec/journals/corr/abs-2304-14827.html?view=bibtex)]
 <a class="github-button" href="https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">ChatGPT-Inter-Sentential-Relations</a>
 
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
