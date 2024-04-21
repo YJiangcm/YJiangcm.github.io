@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 You can download it [HERE](/files/resume-yuxin (2024-04).pdf).
-<embed src="/files/resume-yuxin (2023-11).pdf" width="600px" height="500px" />
+<embed src="/files/resume-yuxin (2024-04).pdf" width="600px" height="500px" />
