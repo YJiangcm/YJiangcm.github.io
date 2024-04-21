@@ -13,7 +13,7 @@ author_profile: true
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-                <b><a href="http://dev3.noahlab.com.hk/index.html">Huawei Noah's Ark Lab, Speech and Semantic Group</a></b>
+                <b><a href="http://dev3.noahlab.com.hk/index.html">Speech and Semantic Group, Huawei Noah's Ark Lab</a></b>
                 <br>
                 <b>Research Intern</b>
                 <br>
@@ -28,7 +28,7 @@ author_profile: true
 
 <!--
 ## **Research Intern**
-_**([Huawei Noah's Ark Lab, Speech and Semantic Group](http://dev3.noahlab.com.hk/index.html), Hong Kong, Sep. 2023 - Feb. 2024)**_
+_**([Speech and Semantic Group, Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/index.html), Hong Kong, Sep. 2023 - Feb. 2024)**_
 _**, mentored by [Dr. Yufei Wang](https://scholar.google.com/citations?user=gFoSqqkAAAAJ)**_
 -->
 
@@ -87,7 +87,7 @@ _**([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)**_
             </td>
             
             <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-                <b><a href="http://www.ion.ac.cn/">Chinese Academy of Science, Institute of Neuroscience</a></b>
+                <b><a href="http://www.ion.ac.cn/">Institute of Neuroscience, Chinese Academy of Science</a></b>
                 <br>
                 <b>Data Analysis Intern</b>
                 <br>
@@ -101,7 +101,7 @@ _**([BEIKE FINANCE](https://www.bkjk.com/), Shanghai, Mar. 2020 - Aug. 2020)**_
 
 <!--
 ## **Data Analysis Intern**
-_**([Chinese Academy of Science, Institute of Neuroscience](http://www.ion.ac.cn/), Shanghai, Apr. 2019 - Sep. 2019)**_
+_**([Institute of Neuroscience, Chinese Academy of Science](http://www.ion.ac.cn/), Shanghai, Apr. 2019 - Sep. 2019)**_
 _**, mentored by [Prof. Jun Yan](http://www.cebsit.cas.cn/yjz/yj_/ry/)**_
 -->
 
