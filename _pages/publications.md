@@ -10,20 +10,11 @@ author_profile: true
 
 
 ## Preprint
-- **Learning to Edit: Aligning LLMs with Knowledge Editing**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
-*Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/abs/2402.11905) [[bibtex](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)]
-<a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
 
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
 *Arxiv Preprint*, 2024. [[pdf]](https://arxiv.org/abs/2401.16745) [[bibtex](https://dblp.org/rec/journals/corr/abs-2401-16745.html?view=bibtex)]
 <a class="github-button" href="https://github.com/KwanWaiChung/MT-Eval" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MT-Eval</a>
-
-- **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
-*Arxiv Preprint*, 2023. [[pdf]](https://arxiv.org/abs/2310.20410) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)]
-<a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
 
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
@@ -31,6 +22,22 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 
 
 ## Conference
+
+- **Learning to Edit: Aligning LLMs with Knowledge Editing**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
+*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://arxiv.org/abs/2402.11905) [[bibtex](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)]
+<a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
+
+- **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
+*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://arxiv.org/abs/2310.20410) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)]
+<a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
+
+- **M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**\
+Wai-Chung Kwan, Xingshan Zeng, Yufei Wang, Yusen Sun, Liangyou Li, <span style="color:darkblue">**Yuxin Jiang**</span>, Lifeng Shang, Qun Liu, Kam-Fai Wong. \
+*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://arxiv.org/abs/2310.19240) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-19240.html?view=bibtex)]
+<a class="github-button" href="https://github.com/KwanWaiChung/M4LE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">M4LE</a>
+
 - **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
 Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Findings of the 18th Conference of the European Chapter
