@@ -17,9 +17,7 @@ I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Techn
 * **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
 * **Alignment Tuning of Large Language Models**, concentrating on averting models' unintended behaviors and ensuring LLMs act in line with human expectations through preference optimization.
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
-<!--
-* **Discourse Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
--->
+
 
 My publications can be found [HERE](https://yjiangcm.github.io/publications/).
 
@@ -42,6 +40,8 @@ My publications can be found [HERE](https://yjiangcm.github.io/publications/).
 * **Shanghai University [(SHU)](https://www.shu.edu.cn/)**
   * B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jul. 2020*
 - GGA: **3.70** / 4.00
+
+* **Discourse Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
 -->
 
 
