@@ -23,6 +23,10 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 
 ## Conference
 
+- **Audience Persona Knowledge-Aligned Prompt Tuning Method for Online Debate**\
+Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, <span style="color:darkblue">**Yuxin Jiang**</span>, Zheye Deng, Haoran Li, Yangqiu Song, Ginny Y. Wong, Simon See. \
+*Proceedings of the 27th European Conference on Artificial Intelligence (ECAI-2024)*
+
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
 *Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://arxiv.org/abs/2402.11905) [[bibtex](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)]
