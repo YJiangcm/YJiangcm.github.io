@@ -39,7 +39,7 @@ Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, <span style="color:darkblue">*
 
 - **M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, Yufei Wang, Yusen Sun, Liangyou Li, <span style="color:darkblue">**Yuxin Jiang**</span>, Lifeng Shang, Qun Liu, Kam-Fai Wong. \
-*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://arxiv.org/abs/2310.19240) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-19240.html?view=bibtex)]
+*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024, <span style="color:red">**Oral**</span>)* [[pdf]](https://arxiv.org/abs/2310.19240) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-19240.html?view=bibtex)]
 <a class="github-button" href="https://github.com/KwanWaiChung/M4LE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">M4LE</a>
 
 - **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
