@@ -78,20 +78,6 @@ My publications can be found [HERE](https://yjiangcm.github.io/publications/).
 
         <tr>
             <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
-                <img src="images/camb_logo.jpg" width="200">
-            </td>
-            
-            <td style="padding:20px;width:70%;vertical-align:middle;border-right:none;border:none;">
-                <b><a href="https://www.cam.ac.uk/">University of Cambridge</a></b>
-                <br>
-                Summer School in <a href="https://www.lucy.cam.ac.uk/">Machine Learning & Algorithms for Data Mining</a>
-                <br>
-                Jul. 2018 -- Aug. 2018
-            </td>            
-        </tr>
-
-        <tr>
-            <td style="padding:8px;width:30%;vertical-align:middle;border:none;"> 
                 <img src="images/shu_logo.png" width="180">
             </td>
             
