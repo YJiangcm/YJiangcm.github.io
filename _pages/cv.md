@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download it [HERE](/files/resume-yuxin (2024-07).pdf).
-<embed src="/files/resume-yuxin (2024-07).pdf" width="600px" height="500px" />
+You can download it [HERE](/files/resume-yuxin (2024-08).pdf).
+<embed src="/files/resume-yuxin (2024-08).pdf" width="600px" height="500px" />
