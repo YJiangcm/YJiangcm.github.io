@@ -15,7 +15,7 @@ Currently, I am a 3rd year Ph.D. candidate at the Hong Kong University of Scienc
 Previously, I received a M.S. degree in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.
 I obtained a B.S. degree in Mathematics and Applied Mathematics from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020.
 
-I'm on the job market. If you are interested in research collaborations or have job recommendations, please feel free to [contact me](mailto:yjiangcm@connect.ust.hk) (yjiangcm AT connect DOT ust DOT hk).
+I'm on the job market. If you are interested in research collaborations or have job recommendations, please feel free to [contact me](mailto:yjiangcm@connect.ust.hk).
 
 (This webpage was last updated on **Aug 15, 2024**)
 
