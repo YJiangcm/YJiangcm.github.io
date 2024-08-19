@@ -50,7 +50,7 @@ I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Techn
 [[pdf](https://aclanthology.org/2022.findings-emnlp.220/)] [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangZW22.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/PromCSE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">PromCSE</a>
 
-More publications can be found [HERE](https://yjiangcm.github.io/publications/).
+More publications can be found [[HERE]](https://yjiangcm.github.io/publications/).
 
 ## Education
 
@@ -138,8 +138,8 @@ More publications can be found [HERE](https://yjiangcm.github.io/publications/).
 
 ## Talks
 * 2023 December: EMNLP Conference on Large Language Models and the Future of NLP. **Lion: Adversarial Distillation of Proprietary Large Language Models**.
-[[slides](https://app.underline.io/downloadable_materials/lectures/88861/slideshow)]
-[[video](https://aclanthology.org/2023.emnlp-main.189.mp4)]
+[[slides]](https://app.underline.io/downloadable_materials/lectures/88861/slideshow)
+[[video]](https://aclanthology.org/2023.emnlp-main.189.mp4)
 
 
 ## Teaching Assistant
