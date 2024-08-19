@@ -25,29 +25,29 @@ I am a 3rd year Ph.D. candidate at the Hong Kong University of Science and Techn
 
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
-*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)]
+*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
 
 - **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
-*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)]
+*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
 
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
-*EMNLP-2023* [[pdf]](https://aclanthology.org/2023.emnlp-main.189/) [[bibtex](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)]
+*EMNLP-2023* [[pdf]](https://aclanthology.org/2023.emnlp-main.189/) [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
 
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
 *ACL Findings-2023*
-[[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex](https://dblp.org/rec/conf/acl/JiangZ023.html?view=bibtex)]
+[[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangZ023.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/GOLF_for_IDRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GOLF-for-IDRR</a>
 
 - **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
 *EMNLP Findings-2022*
-[[pdf](https://aclanthology.org/2022.findings-emnlp.220/)] [[bibtex](https://dblp.org/rec/conf/emnlp/JiangZW22.html?view=bibtex)]
+[[pdf](https://aclanthology.org/2022.findings-emnlp.220/)] [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangZW22.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/PromCSE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">PromCSE</a>
 
 More publications can be found [HERE](https://yjiangcm.github.io/publications/).
