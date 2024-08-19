@@ -20,6 +20,46 @@ I'm on the job market. If you are interested in research collaborations or have 
 (This webpage was last updated on **Aug 15, 2024**)
 
 
+## Research Interests
+* **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
+* **Alignment Tuning of Large Language Models**, concentrating on averting models' unintended behaviors and ensuring LLMs act in line with human expectations through preference optimization.
+* **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
+
+## Selected Publications
+- **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
+*Arxiv Preprint, 2024* [[pdf]](https://www.arxiv.org/abs/2408.07471)
+
+- **Learning to Edit: Aligning LLMs with Knowledge Editing**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
+*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)
+<a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
+
+- **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
+*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)
+<a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
+
+- **Lion: Adversarial Distillation of Proprietary Large Language Models**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
+*EMNLP-2023* [[pdf]](https://aclanthology.org/2023.emnlp-main.189/) [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)
+<a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
+
+- **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
+*ACL Findings-2023*
+[[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangZ023.html?view=bibtex)
+<a class="github-button" href="https://github.com/YJiangcm/GOLF_for_IDRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GOLF-for-IDRR</a>
+
+- **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
+*EMNLP Findings-2022*
+[[pdf]](https://aclanthology.org/2022.findings-emnlp.220/) [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangZW22.html?view=bibtex)
+<a class="github-button" href="https://github.com/YJiangcm/PromCSE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">PromCSE</a>
+
+More publications can be found [[HERE]](https://yjiangcm.github.io/publications/).
+
+
 ## Education
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
     <tbody>
@@ -71,47 +111,6 @@ I'm on the job market. If you are interested in research collaborations or have 
 
 
 
-## Research Interests
-* **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
-* **Alignment Tuning of Large Language Models**, concentrating on averting models' unintended behaviors and ensuring LLMs act in line with human expectations through preference optimization.
-* **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
-
-## Selected Publications
-- **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
-*Arxiv Preprint, 2024* [[pdf]](https://www.arxiv.org/abs/2408.07471)
-
-- **Learning to Edit: Aligning LLMs with Knowledge Editing**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
-*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)
-<a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
-
-- **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
-*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)
-<a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
-
-- **Lion: Adversarial Distillation of Proprietary Large Language Models**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
-*EMNLP-2023* [[pdf]](https://aclanthology.org/2023.emnlp-main.189/) [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)
-<a class="github-button" href="https://github.com/YJiangcm/Lion" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Lion</a>
-
-- **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
-*ACL Findings-2023*
-[[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangZ023.html?view=bibtex)
-<a class="github-button" href="https://github.com/YJiangcm/GOLF_for_IDRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GOLF-for-IDRR</a>
-
-- **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
-<span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
-*EMNLP Findings-2022*
-[[pdf]](https://aclanthology.org/2022.findings-emnlp.220/) [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangZW22.html?view=bibtex)
-<a class="github-button" href="https://github.com/YJiangcm/PromCSE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">PromCSE</a>
-
-More publications can be found [[HERE]](https://yjiangcm.github.io/publications/).
-
-
-
 <!--
 * **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
   * Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ais.hkust.edu.hk/),  *Sep. 2021 -- Jul. 2025 (Expected)*
@@ -132,9 +131,6 @@ More publications can be found [[HERE]](https://yjiangcm.github.io/publications/
 
 * **Discourse Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
 -->
-
-
-
 
 
 ## Awards
