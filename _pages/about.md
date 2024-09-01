@@ -32,12 +32,12 @@ I'm on the job market. If you are interested in research collaborations or have 
 
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
-*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)
+*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangWWZZGLJSTL24.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
 
 - **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
-*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)
+*ACL-2024* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/conf/acl/Jiang0ZZLMS00W24.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
 
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
