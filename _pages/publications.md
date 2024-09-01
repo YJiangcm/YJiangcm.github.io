@@ -32,12 +32,12 @@ Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, <span style="color:darkblue">*
 
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
-*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2402-11905.html?view=bibtex)
+*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangWWZZGLJSTL24.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
 
 - **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
-*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2310-20410.html?view=bibtex)
+*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/conf/acl/Jiang0ZZLMS00W24.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
 
 - **M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**\
@@ -48,7 +48,7 @@ Wai-Chung Kwan, Xingshan Zeng, Yufei Wang, Yusen Sun, Liangyou Li, <span style="
 - **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
 Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Tianqing Fang, Xin Liu, Yangqiu Song.\
 *Findings of the 18th Conference of the European Chapter
-of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://aclanthology.org/2024.findings-eacl.47/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2304-14827.html?view=bibtex)
+of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://aclanthology.org/2024.findings-eacl.47/) [[bibtex]](https://dblp.org/rec/conf/eacl/ChanCWJFLS24.html?view=bibtex)
 <a class="github-button" href="https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">ChatGPT-Inter-Sentential-Relations</a>
 
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
