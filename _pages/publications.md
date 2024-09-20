@@ -14,17 +14,17 @@ author_profile: true
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *Arxiv Preprint, 2024* [[pdf]](https://www.arxiv.org/abs/2408.07471)
 
-- **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
-Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
-*Arxiv Preprint, 2024* [[pdf]](https://arxiv.org/abs/2401.16745) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2401-16745.html?view=bibtex)
-<a class="github-button" href="https://github.com/KwanWaiChung/MT-Eval" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MT-Eval</a>
-
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
 *Arxiv Preprint, 2023* [[pdf]](https://arxiv.org/abs/2305.14717) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2305-14717.html?view=bibtex)
 
 
 ## Conference
+
+- **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
+Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
+*Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)* [[pdf]](https://arxiv.org/abs/2401.16745) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2401-16745.html?view=bibtex)
+<a class="github-button" href="https://github.com/KwanWaiChung/MT-Eval" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MT-Eval</a>
 
 - **Audience Persona Knowledge-Aligned Prompt Tuning Method for Online Debate**\
 Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, <span style="color:darkblue">**Yuxin Jiang**</span>, Zheye Deng, Haoran Li, Yangqiu Song, Ginny Y. Wong, Simon See. \
