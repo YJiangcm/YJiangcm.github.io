@@ -13,6 +13,7 @@ author_profile: true
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *Arxiv Preprint, 2024* [[pdf]](https://www.arxiv.org/abs/2408.07471)
+<a class="github-button" href="https://github.com/YJiangcm/BMC" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BMC</a>
 
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
