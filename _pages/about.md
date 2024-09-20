@@ -29,6 +29,7 @@ I'm on the job market. If you are interested in research collaborations or have 
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *Arxiv Preprint, 2024* [[pdf]](https://www.arxiv.org/abs/2408.07471)
+<a class="github-button" href="https://github.com/YJiangcm/BMC" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BMC</a>
 
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
