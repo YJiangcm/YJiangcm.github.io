@@ -12,7 +12,7 @@ author_profile: true
 ## Preprint
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
-*Arxiv Preprint, 2024* [[pdf]](https://www.arxiv.org/abs/2408.07471)
+*Arxiv Preprint, 2024* [[pdf]](https://www.arxiv.org/abs/2408.07471) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/BMC" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">BMC</a>
 
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
