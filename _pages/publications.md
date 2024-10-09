@@ -34,6 +34,8 @@ Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</spa
 - **Audience Persona Knowledge-Aligned Prompt Tuning Method for Online Debate**\
 Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, <span style="color:darkblue">**Yuxin Jiang**</span>, Zheye Deng, Haoran Li, Yangqiu Song, Ginny Y. Wong, Simon See. \
 *Proceedings of the 27th European Conference on Artificial Intelligence (ECAI-2024)*
+[[pdf]](https://arxiv.org/abs/2410.04239)
+<a class="github-button" href="https://github.com/HKUST-KnowComp/PersonaPrompt" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">PersonaPrompt</a>
 
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
