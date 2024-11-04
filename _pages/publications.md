@@ -35,6 +35,7 @@ Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</spa
 Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, <span style="color:darkblue">**Yuxin Jiang**</span>, Zheye Deng, Haoran Li, Yangqiu Song, Ginny Y. Wong, Simon See. \
 *Proceedings of the 27th European Conference on Artificial Intelligence (ECAI-2024)*
 [[pdf]](https://arxiv.org/abs/2410.04239)
+[[bibtex]](https://dblp.org/rec/conf/ecai/ChanCLYJD0SWS24.html?view=bibtex)
 <a class="github-button" href="https://github.com/HKUST-KnowComp/PersonaPrompt" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">PersonaPrompt</a>
 
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
