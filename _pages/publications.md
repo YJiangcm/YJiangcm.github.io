@@ -13,6 +13,7 @@ author_profile: true
 - **RevisEval: Improving LLM-as-a-Judge via Response-Adapted References**\
 Qiyuan Zhang, Yufei Wang, Tiezheng Yu, <span style="color:darkblue">**Yuxin Jiang**</span>, Chuhan Wu, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma. \
 *Arxiv Preprint, 2024* [[pdf]](https://arxiv.org/abs/2410.05193)
+[[bibtex]](https://dblp.org/rec/journals/corr/abs-2410-05193.html?view=bibtex)
 
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
