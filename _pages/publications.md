@@ -29,7 +29,7 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
-*Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)* [[pdf]](https://aclanthology.org/2024.emnlp-main.1124/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2401-16745.html?view=bibtex)
+*Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)* [[pdf]](https://aclanthology.org/2024.emnlp-main.1124/) [[bibtex]](https://dblp.org/rec/conf/emnlp/KwanZJWLS00W24.html?view=bibtex)
 <a class="github-button" href="https://github.com/KwanWaiChung/MT-Eval" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">MT-Eval</a>
 
 - **Audience Persona Knowledge-Aligned Prompt Tuning Method for Online Debate**\
