@@ -27,6 +27,10 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 
 ## Conference
 
+- **When Evolution Strategy Meets Language Models Tuning**\
+Bo Huang, <span style="color:darkblue">**Yuxin Jiang**</span>, Mingyang Chen, Yi Wang, Hongyang Chen, Wei Wang. \
+*Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025)*
+
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
 *Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)* [[pdf]](https://aclanthology.org/2024.emnlp-main.1124/) [[bibtex]](https://dblp.org/rec/conf/emnlp/KwanZJWLS00W24.html?view=bibtex)
