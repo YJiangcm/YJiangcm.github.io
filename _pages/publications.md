@@ -30,6 +30,7 @@ Qiyuan Zhang, Yufei Wang, Tiezheng Yu, <span style="color:darkblue">**Yuxin Jian
 Bo Huang, <span style="color:darkblue">**Yuxin Jiang**</span>, Mingyang Chen, Yi Wang, Hongyang Chen, Wei Wang. \
 *Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025)*
 [[pdf]](https://aclanthology.org/2025.coling-main.357/)
+[[bibtex]](https://dblp.org/rec/conf/coling/HuangJC0C025.html?view=bibtex)
 
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
