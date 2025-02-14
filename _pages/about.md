@@ -157,7 +157,7 @@ More publications can be found [[HERE]](https://yjiangcm.github.io/publications/
 * INFH5000: Information Science and Technology: Essentials and Trends. (Fall 2022)
 
 ## Academic Service
-* Conference Reviewer: EMNLP'22, 23, ACL'23, ACL Rolling Review'23, 24, ICLR'25.
+* Conference Reviewer: EMNLP'22, 23, ACL'23, ACL Rolling Review'23, 24, 25, ICLR'25.
 * Conference External Reviewer: DASFAA'21, SIGIR'22, 23, ICDE'23, NeurIPS'23, 24.
 
 ## Sitemap
