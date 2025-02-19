@@ -17,7 +17,7 @@ I obtained a B.S. degree in Mathematics and Applied Mathematics from Shanghai Un
 
 I'm on the job market. If you are interested in research collaborations or have job recommendations, please feel free to [contact me](mailto:yjiangcm@connect.ust.hk).
 
-(This webpage was last updated on **Jan 23, 2025**)
+(This webpage was last updated on **Feb 19, 2025**)
 
 
 ## Research Interests
@@ -136,14 +136,9 @@ More publications can be found [[HERE]](https://yjiangcm.github.io/publications/
 
 ## Awards
 * [_2024_] ACL 2024 Outstanding Paper Award (Top 1%)
-* [_2024_] Research Travel Grant Award at HKUST
 * [_2023_] Top 3% Paper Recognition of all papers accepted at ICASSP 2023 (Top 1%)
-* [_2023_] Research Travel Grant Award at HKUST
-* [_2021_] Postgraduate Studentship at HKUST (Top 5%)
 * [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
-* [_2020_] School of Engineering Entrance Scholarship at HKUST (Top 5%)
 * [_2020_] Outstanding Graduates of Shanghai (Top 1%)
-* [_2019_] Third Prize at Science and Technology Innovation Competition for Undergraduates (Top 10%)
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship, and Excellent Student at Shanghai University (Top 3%)
 
 ## Talks
