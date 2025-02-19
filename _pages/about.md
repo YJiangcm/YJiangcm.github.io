@@ -136,7 +136,7 @@ More publications can be found [[HERE]](https://yjiangcm.github.io/publications/
 
 ## Awards
 * [_2024_] ACL 2024 Outstanding Paper Award (Top 1%)
-* [_2023_] Top 3% Paper Recognition of all papers accepted at ICASSP 2023 (Top 1%)
+* [_2023_] ICASSP 2023 Top 3% Paper Recognition (Top 1%)
 * [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
 * [_2020_] Outstanding Graduates of Shanghai (Top 1%)
 * [_2016-2019_] Grand Prize Scholarship, Leadership Scholarship, and Excellent Student at Shanghai University (Top 3%)
