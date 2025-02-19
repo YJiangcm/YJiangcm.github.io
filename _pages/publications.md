@@ -20,6 +20,7 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 
 
 ## Conference
+### 2025
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *Proceedings of the 13th International Conference on Learning Representations (ICLR-2025)* [[pdf]](https://openreview.net/forum?id=hRwxZmcvW9) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
@@ -36,6 +37,7 @@ Bo Huang, <span style="color:darkblue">**Yuxin Jiang**</span>, Mingyang Chen, Yi
 [[pdf]](https://aclanthology.org/2025.coling-main.357/)
 [[bibtex]](https://dblp.org/rec/conf/coling/HuangJC0C025.html?view=bibtex)
 
+### 2024
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Liangyou Li, Lifeng Shang, Xin Jiang, Qun Liu, Kam-Fai Wong. \
 *Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2024)* [[pdf]](https://aclanthology.org/2024.emnlp-main.1124/) [[bibtex]](https://dblp.org/rec/conf/emnlp/KwanZJWLS00W24.html?view=bibtex)
@@ -69,6 +71,7 @@ Chunkit Chan, Jiayang Cheng, Weiqi Wang, <span style="color:darkblue">**Yuxin Ji
 of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://aclanthology.org/2024.findings-eacl.47/) [[bibtex]](https://dblp.org/rec/conf/eacl/ChanCWJFLS24.html?view=bibtex)
 <a class="github-button" href="https://github.com/HKUST-KnowComp/ChatGPT-Inter-Sentential-Relations" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">ChatGPT-Inter-Sentential-Relations</a>
 
+### 2023
 - **Lion: Adversarial Distillation of Proprietary Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Chunkit Chan\*, Mingyang Chen\*, Wei Wang.\
 *Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2023, <span style="color:red">**Oral**</span>)* [[pdf]](https://aclanthology.org/2023.emnlp-main.189/) [[bibtex]](https://dblp.org/rec/conf/emnlp/JiangCCW23.html?view=bibtex)
@@ -85,6 +88,7 @@ Linhan Zhang, Qian Chen, Wen Wang, Chong Deng, Xin Cao, Kongzhang Hao, <span sty
 *2023 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP-2023, <span style="color:red">**Top 3% Paper Recognition**</span>)*
 [[pdf]](https://ieeexplore.ieee.org/document/10096946) [[bibtex]](https://dblp.org/rec/conf/icassp/ZhangCWDCHJW23.html?view=bibtex)
 
+### 2022
 - **Improved Universal Sentence Embeddings with Prompt-based Contrastive Learning and Energy-based Learning**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
 *Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP-2022)*
@@ -97,6 +101,14 @@ Ziyi Shou, <span style="color:darkblue">**Yuxin Jiang**</span>, Fangzhen Lin.\
 [[pdf]](https://aclanthology.org/2022.findings-acl.244/) [[bibtex]](https://dblp.org/rec/conf/acl/ShouJL22.html?view=bibtex)
 <a class="github-button" href="https://github.com/zzshou/amr-data-augmentation" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">AMR-Data-Augmentation</a>
 
+### 2021
+- **XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning**\
+<span style="color:darkblue">**Yuxin Jiang\***</span>, Ziyi Shou\*, Qijun Wang, Hao Wu, Fangzhen Lin.\
+*Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*
+[[pdf]](https://aclanthology.org/2021.semeval-1.105/) [[bibtex]](https://dblp.org/rec/conf/semeval/JiangSWWL21.html?view=bibtex)
+<a class="github-button" href="https://github.com/zzshou/RCAM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WN-DUMA</a>
+
+
 ## Journal
 - **Determinant of a Rectangular Matrix over the Quaternion Algebra**\
 Pingping Song, <span style="color:darkblue">**Yuxin Jiang**</span>, Yuting Shen.\
@@ -106,14 +118,6 @@ Pingping Song, <span style="color:darkblue">**Yuxin Jiang**</span>, Yuting Shen.
 Jialing Liu, Juntong Liu, <span style="color:darkblue">**Yuxin Jiang**</span>.\
 *JP Journal of Algebra, Number Theory and Applications 40 (4), 2018*
 [[pdf]](http://www.pphmj.com/abstract/11971.htm)
-
-
-## Workshop
-- **XRJL-HKUST at SemEval-2021 Task 4: WordNet-Enhanced Dual Multi-head Co-Attention for Reading Comprehension of Abstract Meaning**\
-<span style="color:darkblue">**Yuxin Jiang\***</span>, Ziyi Shou\*, Qijun Wang, Hao Wu, Fangzhen Lin.\
-*Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)*
-[[pdf]](https://aclanthology.org/2021.semeval-1.105/) [[bibtex]](https://dblp.org/rec/conf/semeval/JiangSWWL21.html?view=bibtex)
-<a class="github-button" href="https://github.com/zzshou/RCAM" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WN-DUMA</a>
 
 
 (\*: Equal Contribution)
