@@ -36,6 +36,7 @@ Bo Huang, <span style="color:darkblue">**Yuxin Jiang**</span>, Mingyang Chen, Yi
 *Proceedings of the 31st International Conference on Computational Linguistics (COLING-2025)*
 [[pdf]](https://aclanthology.org/2025.coling-main.357/)
 [[bibtex]](https://dblp.org/rec/conf/coling/HuangJC0C025.html?view=bibtex)
+<a class="github-button" href="https://github.com/boyellow/ESO" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">ESO</a>
 
 ### 2024
 - **MT-Eval: A Multi-Turn Capabilities Evaluation Benchmark for Large Language Models**\
