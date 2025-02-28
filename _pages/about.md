@@ -22,7 +22,7 @@ I'm on the job market. If you are interested in research collaborations or have 
 
 ## Research Interests
 * **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
-* **Alignment Tuning of Large Language Models**, concentrating on averting models' unintended behaviors and ensuring LLMs act in line with human expectations.
+* **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning.
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
 
 ## Selected Publications
