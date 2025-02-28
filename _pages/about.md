@@ -21,9 +21,9 @@ I'm on the job market. If you are interested in research collaborations or have 
 
 
 ## Research Interests
-* **Instruction Tuning of Large Language Models**, especially on enhancing and evaluating the capability of language models to comprehend and execute complex instructions accurately.
-* **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning.
-* **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
+* **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
+* **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9)).
+* **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
 
 ## Selected Publications
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
