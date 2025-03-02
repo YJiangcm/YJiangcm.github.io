@@ -17,7 +17,7 @@ I obtained a B.S. degree in Mathematics and Applied Mathematics from Shanghai Un
 
 I'm on the job market. If you are interested in research collaborations or have job recommendations, please feel free to [contact me](mailto:yjiangcm@connect.ust.hk).
 
-(This webpage was last updated on **Feb 19, 2025**)
+(This webpage was last updated on **Mar 1, 2025**)
 
 
 ## Research Interests
