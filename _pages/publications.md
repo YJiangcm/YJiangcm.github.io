@@ -13,6 +13,7 @@ author_profile: true
 - **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge**\
 Qiyuan Zhang, Yufei Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Liangyou Li, Chuhan Wu, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma.\
 *Arxiv Preprint, 2025* [[pdf]](https://arxiv.org/abs/2502.12501)
+[[bibtex]](https://dblp.org/rec/journals/corr/abs-2502-12501.html?view=bibtex)
 
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
