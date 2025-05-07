@@ -14,6 +14,7 @@ author_profile: true
 Qiyuan Zhang, Yufei Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Liangyou Li, Chuhan Wu, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma.\
 *Arxiv Preprint, 2025* [[pdf]](https://arxiv.org/abs/2502.12501)
 [[bibtex]](https://dblp.org/rec/journals/corr/abs-2502-12501.html?view=bibtex)
+<a class="github-button" href="https://github.com/Don-Joey/CCE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">CCE</a>
 
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
@@ -31,6 +32,7 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 Qiyuan Zhang, Yufei Wang, Tiezheng Yu, <span style="color:darkblue">**Yuxin Jiang**</span>, Chuhan Wu, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma. \
 *Proceedings of the 13th International Conference on Learning Representations (ICLR-2025)* [[pdf]](https://openreview.net/forum?id=1tBvzOYTLF)
 [[bibtex]](https://dblp.org/rec/journals/corr/abs-2410-05193.html?view=bibtex)
+<a class="github-button" href="https://github.com/Don-Joey/RevisEval" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">RevisEval</a>
 
 - **When Evolution Strategy Meets Language Models Tuning**\
 Bo Huang, <span style="color:darkblue">**Yuxin Jiang**</span>, Mingyang Chen, Yi Wang, Hongyang Chen, Wei Wang. \
