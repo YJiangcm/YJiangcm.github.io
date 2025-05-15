@@ -17,15 +17,20 @@ I obtained a B.S. degree in Mathematics and Applied Mathematics from Shanghai Un
 
 I'm on the job market. If you are interested in research collaborations or have job recommendations, please feel free to [contact me](mailto:yjiangcm@connect.ust.hk).
 
-(This webpage was last updated on **Mar 1, 2025**)
+(This webpage was last updated on **May 15, 2025**)
 
 
 ## Research Interests
-* **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
+* **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/), [WebR](https://arxiv.org/abs/2504.15573)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
 * **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9)).
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
 
 ## Selected Publications
+- **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
+*ACL Findings-2025* [[pdf]](https://arxiv.org/abs/2504.15573) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
+<a class="github-button" href="https://github.com/YJiangcm/WebR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WebR</a>
+
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *ICLR-2025* [[pdf]](https://openreview.net/forum?id=hRwxZmcvW9) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
