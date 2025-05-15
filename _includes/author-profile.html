@@ -112,6 +112,12 @@
       {% if author.huggingface %}
         <li><a href="{{ author.huggingface }}"><i class="fas fa-fw fa-robot" aria-hidden="true"></i> Hugging Face</a></li>
       {% endif %}
+      {% if author.openreview %}
+        <li><a href="{{ author.openreview }}"><i class="fas fa-fw fa-clipboard-check" aria-hidden="true"></i> OpenReview</a></li>
+      {% endif %}
+      {% if author.aclanthology %}
+        <li><a href="{{ author.aclanthology }}"><i class="fas fa-fw fa-language" aria-hidden="true"></i> ACL Anthology</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
