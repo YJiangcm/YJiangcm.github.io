@@ -10,12 +10,6 @@ author_profile: true
 
 
 ## Preprint
-- **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge**\
-Qiyuan Zhang, Yufei Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Liangyou Li, Chuhan Wu, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma.\
-*Arxiv Preprint, 2025* [[pdf]](https://arxiv.org/abs/2502.12501)
-[[bibtex]](https://dblp.org/rec/journals/corr/abs-2502-12501.html?view=bibtex)
-<a class="github-button" href="https://github.com/Don-Joey/CCE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">CCE</a>
-
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
 *Arxiv Preprint, 2023* [[pdf]](https://arxiv.org/abs/2305.14717) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2305-14717.html?view=bibtex)
@@ -23,6 +17,18 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 
 ## Conference
 ### 2025
+- **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
+*Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*
+[[pdf]](https://arxiv.org/abs/2504.15573) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
+<a class="github-button" href="https://github.com/YJiangcm/WebR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WebR</a>
+
+- **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge**\
+Qiyuan Zhang, Yufei Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Liangyou Li, Chuhan Wu, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma.\
+*Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)* [[pdf]](https://arxiv.org/abs/2502.12501)
+[[bibtex]](https://dblp.org/rec/journals/corr/abs-2502-12501.html?view=bibtex)
+<a class="github-button" href="https://github.com/Don-Joey/CCE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">CCE</a>
+
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Bo Huang, Yufei Wang, Xingshan Zeng, Liangyou Li, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *Proceedings of the 13th International Conference on Learning Representations (ICLR-2025)* [[pdf]](https://openreview.net/forum?id=hRwxZmcvW9) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
@@ -56,17 +62,17 @@ Chunkit Chan, Jiayang Cheng, Xin Liu, Yauwai Yim, <span style="color:darkblue">*
 
 - **Learning to Edit: Aligning LLMs with Knowledge Editing**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Wanjun Zhong, Xingshan Zeng, Jiahui Gao, Liangyou Li, Xin Jiang, Lifeng Shang, Ruiming Tang, Qun Liu, Wei Wang. \
-*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangWWZZGLJSTL24.html?view=bibtex)
+*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.258/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangWWZZGLJSTL24.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/LTE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">LTE</a>
 
 - **FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Xingshan Zeng, Wanjun Zhong, Liangyou Li, Fei Mi, Lifeng Shang, Xin Jiang, Qun Liu, Wei Wang. \
-*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/conf/acl/Jiang0ZZLMS00W24.html?view=bibtex)
+*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024)* [[pdf]](https://aclanthology.org/2024.acl-long.257/) [[bibtex]](https://dblp.org/rec/conf/acl/Jiang0ZZLMS00W24.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/FollowBench" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">FollowBench</a>
 
 - **M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**\
 Wai-Chung Kwan, Xingshan Zeng, Yufei Wang, Yusen Sun, Liangyou Li, <span style="color:darkblue">**Yuxin Jiang**</span>, Lifeng Shang, Qun Liu, Kam-Fai Wong. \
-*Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (ACL-2024, <span style="color:red">**Outstanding Paper Award**</span>)* [[pdf]](https://aclanthology.org/2024.acl-long.832/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2310-19240.html?view=bibtex)
+*Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL-2024, <span style="color:red">**Outstanding Paper Award**</span>)* [[pdf]](https://aclanthology.org/2024.acl-long.832/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2310-19240.html?view=bibtex)
 <a class="github-button" href="https://github.com/KwanWaiChung/M4LE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">M4LE</a>
 
 - **Exploring the Potential of ChatGPT on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations**\
@@ -83,7 +89,7 @@ of the Association for Computational Linguistics (EACL-2024)* [[pdf]](https://ac
 
 - **Global and Local Hierarchy-aware Contrastive Framework for Implicit Discourse Relation Recognition**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Linhan Zhang, Wei Wang.\
-*Findings of the 61th Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
+*Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)*
 [[pdf]](https://aclanthology.org/2023.findings-acl.510/) [[bibtex]](https://dblp.org/rec/conf/acl/JiangZ023.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/GOLF_for_IDRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">GOLF-for-IDRR</a>
 
