@@ -28,7 +28,7 @@ I obtained a B.S. degree in Mathematics and Applied Mathematics from Shanghai Un
 ## Selected Publications
 - **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
-*ACL Findings-2025* [[pdf]](https://arxiv.org/abs/2504.15573) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
+*ACL Findings-2025* [[pdf]](https://arxiv.org/abs/2504.15573) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2504-15573.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/WebR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WebR</a>
 
 - **Bridging and Modeling Correlations in Pairwise Data for Direct Preference Optimization**\
