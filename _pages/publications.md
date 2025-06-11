@@ -20,7 +20,7 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 - **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*
-[[pdf]](https://arxiv.org/abs/2504.15573) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2408-07471.html?view=bibtex)
+[[pdf]](https://arxiv.org/abs/2504.15573) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2504-15573.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/WebR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WebR</a>
 
 - **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge**\
