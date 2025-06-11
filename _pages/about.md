@@ -23,6 +23,8 @@ I obtained a B.S. degree in Mathematics and Applied Mathematics from Shanghai Un
 * **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9)).
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
 
+**Ph.D. Thesis:** [Towards Efficient and Effective Alignment of Large Language Models](files/PhD Thesis_Yuxin Jiang_final_version.pdf)
+
 ## Selected Publications
 - **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
