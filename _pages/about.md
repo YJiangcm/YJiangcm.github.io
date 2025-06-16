@@ -140,6 +140,7 @@ More publications can be found [[HERE]](https://yjiangcm.github.io/publications/
 
 
 ## Awards
+* [_2023-2025_] Research Travel Grant Award
 * [_2024_] **ACL 2024 Outstanding Paper Award** (Top 1%)
 * [_2023_] **ICASSP 2023 Top 3% Paper Recognition** (Top 1%)
 * [_2021_] School of Engineering Excellent Student Scholarship at HKUST (Top 5%)
