@@ -20,12 +20,12 @@ Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**<
 - **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *Findings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)*
-[[pdf]](https://arxiv.org/abs/2504.15573) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2504-15573.html?view=bibtex)
+[[pdf]](https://aclanthology.org/2025.findings-acl.343/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2504-15573.html?view=bibtex)
 <a class="github-button" href="https://github.com/YJiangcm/WebR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">WebR</a>
 
 - **Crowd Comparative Reasoning: Unlocking Comprehensive Evaluations for LLM-as-a-Judge**\
 Qiyuan Zhang, Yufei Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Liangyou Li, Chuhan Wu, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Fuyuan Lyu, Chen Ma.\
-*Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)* [[pdf]](https://arxiv.org/abs/2502.12501)
+*Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL-2025)* [[pdf]](https://aclanthology.org/2025.acl-long.252/)
 [[bibtex]](https://dblp.org/rec/journals/corr/abs-2502-12501.html?view=bibtex)
 <a class="github-button" href="https://github.com/Don-Joey/CCE" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">CCE</a>
 
