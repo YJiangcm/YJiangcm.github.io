@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuxin Jiang (姜宇心)"
 title_separator          : "-"
 name                     : &name "Yuxin Jiang"
-description              : &description "final-year Ph.D. candidate at HKUST"
+description              : &description "Ph.D. at HKUST"
 url                      : https://YJiangcm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YJiangcm.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuxin Jiang"
   avatar           : "avatar.jpg"
-  bio              : "final-year Ph.D. candidate at HKUST"
+  bio              : "Ph.D. at HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
