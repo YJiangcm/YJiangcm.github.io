@@ -19,7 +19,7 @@ I completed my undergraduate education at Shanghai University, obtaining a B.S. 
 
 
 ## Research Interests
-* **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9)).
+* **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9), [RLVRR](https://openreview.net/forum?id=ZumVIktGbt)).
 * **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/), [WebR](https://aclanthology.org/2025.findings-acl.343/)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
 
