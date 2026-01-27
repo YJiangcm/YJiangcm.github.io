@@ -10,12 +10,29 @@ author_profile: true
 
 
 ## Preprint
+
+- **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving**\
+Chaofan Tao\*, Jierun Chen\*, <span style="color:darkblue">**Yuxin Jiang**\*</span>, Kaiqi Kou\*, Shaowei Wang\*, Ruoyu Wang\*, Xiaohui Li, Sidi Yang, Yiming Du, Jianbo Dai, Zhiming Mao, Xinyu Wang, Lifeng Shang, Haoli Bai. \
+*Technical Report-2026* [[pdf]](https://arxiv.org/abs/2601.01426)
+<a class="github-button" href="https://github.com/SWE-Lego/SWE-Lego" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SWE-Lego</a>
+
 - **Exploiting Correlations Between Contexts and Definitions with Multiple Definition Modeling**\
 Linhan Zhang, Qian Chen, Wen Wang, <span style="color:darkblue">**Yuxin Jiang**</span>, Bing Li, Wei Wang, Xin Cao.\
 *Arxiv Preprint, 2023* [[pdf]](https://arxiv.org/abs/2305.14717) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2305-14717.html?view=bibtex)
 
 
 ## Conference
+### 2026
+- **From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Qiyuan Zhang, Xingshan Zeng, Liangyou Li, Jierun Chen, Chaofan Tao, Haoli Bai, Lifeng Shang. \
+*ICLR-2026* [[pdf]](https://openreview.net/forum?id=ZumVIktGbt)
+<a class="github-button" href="https://github.com/YJiangcm/RLVRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">RLVRR</a>
+
+- **Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents**\
+Yiming Du, Baojun Wang, Yifan Xiang, Zhaowei Wang, Wenyu Huang, Boyang Xue, Bin Liang, Xingshan Zeng, Fei Mi, Haoli Bai, Lifeng Shang, Jeff Z. Pan, <span style="color:darkblue">**Yuxin Jiang**^</span>, Kam-Fai Wong^. \
+*ICLR-2026* [[pdf]](https://openreview.net/forum?id=vQf2YR2Kpd)
+<a class="github-button" href="https://github.com/Elvin-Yiming-Du/Memory-T1" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Memory-T1</a>
+
 ### 2025
 - **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
@@ -130,4 +147,4 @@ Jialing Liu, Juntong Liu, <span style="color:darkblue">**Yuxin Jiang**</span>.\
 [[pdf]](http://www.pphmj.com/abstract/11971.htm)
 
 
-(\*: Equal Contribution)
+(\*: Equal Contribution, \^: Corresponding Author)
