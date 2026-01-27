@@ -10,22 +10,38 @@ redirect_from:
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-Currently, I am a final-year Ph.D. candidate at the Hong Kong University of Science and Technology. Supervised by [Prof. Wei Wang](http://wei-wang.net/), I am working on Natural Language Processing (NLP) as well as its applications.
+I am currently a researcher at Huawei Noah's Ark Lab (Hong Kong).
+I earned my Ph.D. in Data Science and Analytics from the Hong Kong University of Science and Technology (HKUST) in 2025, under the supervision of [Prof. Wei Wang](http://wei-wang.net/).
+Prior to my doctoral studies, I received an M.S. degree in Big Data and Technology from HKUST in 2021, advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin).
+I completed my undergraduate education at Shanghai University, obtaining a B.S. degree in Mathematics and Applied Mathematics in 2020, where I was advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm).
 
-Previously, I received a M.S. degree in Big Data and Technology (advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin)) from the Hong Kong University of Science and Technology in 2021.
-I obtained a B.S. degree in Mathematics and Applied Mathematics from Shanghai University (advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm)) in 2020.
-
-(This webpage was last updated on **May 15, 2025**)
+(This webpage was last updated on **Jan 27, 2026**)
 
 
 ## Research Interests
-* **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/), [WebR](https://aclanthology.org/2025.findings-acl.343/)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
 * **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9)).
+* **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/), [WebR](https://aclanthology.org/2025.findings-acl.343/)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
 * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
 
 **Ph.D. Thesis:** [Towards Efficient and Effective Alignment of Large Language Models](files/PhD Thesis_Yuxin Jiang_final_version.pdf)
 
-## Selected Publications
+## Selected Publications (*: Equal Contribution, ^: Corresponding Author)
+
+- **From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**\
+<span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Qiyuan Zhang, Xingshan Zeng, Liangyou Li, Jierun Chen, Chaofan Tao, Haoli Bai, Lifeng Shang. \
+ICLR-2026* [[pdf]](https://openreview.net/forum?id=ZumVIktGbt)
+<a class="github-button" href="https://github.com/YJiangcm/RLVRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">RLVRR</a>
+
+- **Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents**\
+Yiming Du, Baojun Wang, Yifan Xiang, Zhaowei Wang, Wenyu Huang, Boyang Xue, Bin Liang, Xingshan Zeng, Fei Mi, Haoli Bai, Lifeng Shang, Jeff Z. Pan, <span style="color:darkblue">**Yuxin Jiang**^</span>, Kam-Fai Wong^. \
+ICLR-2026* [[pdf]](https://openreview.net/forum?id=vQf2YR2Kpd)
+<a class="github-button" href="https://github.com/Elvin-Yiming-Du/Memory-T1" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Memory-T1</a>
+
+- **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving**\
+Chaofan Tao*, Jierun Chen*, <span style="color:darkblue">**Yuxin Jiang**\*</span>, Kaiqi Kou*, Shaowei Wang*, Ruoyu Wang*, Xiaohui Li, Sidi Yang, Yiming Du, Jianbo Dai, Zhiming Mao, Xinyu Wang, Lifeng Shang, Haoli Bai. \
+*Technical Report-2026* [[pdf]](https://arxiv.org/abs/2601.01426)
+<a class="github-button" href="https://github.com/SWE-Lego/SWE-Lego" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SWE-Lego</a>
+
 - **Instruction-Tuning Data Synthesis from Scratch via Web Reconstruction**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Chuhan Wu, Xinyi Dai, Yan Xu, Weinan Gan, Yasheng Wang, Xin Jiang, Lifeng Shang, Ruiming Tang, Wei Wang. \
 *ACL Findings-2025* [[pdf]](https://aclanthology.org/2025.findings-acl.343/) [[bibtex]](https://dblp.org/rec/journals/corr/abs-2504-15573.html?view=bibtex)
@@ -114,29 +130,6 @@ More publications can be found [[HERE]](https://yjiangcm.github.io/publications/
         
     </tbody>
 </table>
-
-
-
-<!--
-* **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-  * Ph.D. in [Individualized Interdisciplinary Program (Data Science and Analytics)](https://ais.hkust.edu.hk/),  *Sep. 2021 -- Jul. 2025 (Expected)*
-  * M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021*
- - CGA: **4.00** / 4.30
-
-* **The Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-- M.S. in [Big Data and Technology](https://seng.hkust.edu.hk/academics/taught-postgraduate/msc-bdt),  *Sep. 2020 -- Jul. 2021*
-- GGA: **3.98** / 4.30
-
-* **University of Cambridge [(CAMB)](https://www.cam.ac.uk/)**
-  * Summer School in [Machine Learning & Algorithms for Data Mining](https://www.lucy.cam.ac.uk/),  *Jul. 2018 -- Aug. 2018*
-- Received merit scholarship of 30,000 ¥
-
-* **Shanghai University [(SHU)](https://www.shu.edu.cn/)**
-  * B.S. in [Mathematics and Applied Mathematics](https://qwc.shu.edu.cn/),  *Sep. 2016 -- Jul. 2020*
-- GGA: **3.70** / 4.00
-
-* **Discourse Analysis**, concentrating on the application of computational methods to understand the structure and dynamics of conversations, and how various linguistic features influence discourse in different contexts.
--->
 
 
 ## Awards
