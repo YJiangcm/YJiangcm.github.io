@@ -29,12 +29,12 @@ I completed my undergraduate education at Shanghai University, obtaining a B.S. 
 
 - **From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Qiyuan Zhang, Xingshan Zeng, Liangyou Li, Jierun Chen, Chaofan Tao, Haoli Bai, Lifeng Shang. \
-ICLR-2026* [[pdf]](https://openreview.net/forum?id=ZumVIktGbt)
+*ICLR-2026* [[pdf]](https://openreview.net/forum?id=ZumVIktGbt)
 <a class="github-button" href="https://github.com/YJiangcm/RLVRR" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">RLVRR</a>
 
 - **Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents**\
 Yiming Du, Baojun Wang, Yifan Xiang, Zhaowei Wang, Wenyu Huang, Boyang Xue, Bin Liang, Xingshan Zeng, Fei Mi, Haoli Bai, Lifeng Shang, Jeff Z. Pan, <span style="color:darkblue">**Yuxin Jiang**^</span>, Kam-Fai Wong^. \
-ICLR-2026* [[pdf]](https://openreview.net/forum?id=vQf2YR2Kpd)
+*ICLR-2026* [[pdf]](https://openreview.net/forum?id=vQf2YR2Kpd)
 <a class="github-button" href="https://github.com/Elvin-Yiming-Du/Memory-T1" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Memory-T1</a>
 
 - **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving**\
