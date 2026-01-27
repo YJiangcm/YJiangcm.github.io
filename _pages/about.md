@@ -38,7 +38,7 @@ Yiming Du, Baojun Wang, Yifan Xiang, Zhaowei Wang, Wenyu Huang, Boyang Xue, Bin 
 <a class="github-button" href="https://github.com/Elvin-Yiming-Du/Memory-T1" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">Memory-T1</a>
 
 - **SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving**\
-Chaofan Tao*, Jierun Chen*, <span style="color:darkblue">**Yuxin Jiang**\*</span>, Kaiqi Kou*, Shaowei Wang*, Ruoyu Wang*, Xiaohui Li, Sidi Yang, Yiming Du, Jianbo Dai, Zhiming Mao, Xinyu Wang, Lifeng Shang, Haoli Bai. \
+Chaofan Tao\*, Jierun Chen\*, <span style="color:darkblue">**Yuxin Jiang**\*</span>, Kaiqi Kou\*, Shaowei Wang\*, Ruoyu Wang\*, Xiaohui Li, Sidi Yang, Yiming Du, Jianbo Dai, Zhiming Mao, Xinyu Wang, Lifeng Shang, Haoli Bai. \
 *Technical Report-2026* [[pdf]](https://arxiv.org/abs/2601.01426)
 <a class="github-button" href="https://github.com/SWE-Lego/SWE-Lego" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">SWE-Lego</a>
 
