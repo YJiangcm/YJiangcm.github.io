@@ -25,7 +25,7 @@ I completed my undergraduate education at Shanghai University, obtaining a B.S. 
 
 **Ph.D. Thesis:** [Towards Efficient and Effective Alignment of Large Language Models](files/PhD Thesis_Yuxin Jiang_final_version.pdf)
 
-## Selected Publications (*: Equal Contribution, ^: Corresponding Author)
+## Selected Publications (\*: Equal Contribution, \^: Corresponding Author)
 
 - **From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**\
 <span style="color:darkblue">**Yuxin Jiang**</span>, Yufei Wang, Qiyuan Zhang, Xingshan Zeng, Liangyou Li, Jierun Chen, Chaofan Tao, Haoli Bai, Lifeng Shang. \
