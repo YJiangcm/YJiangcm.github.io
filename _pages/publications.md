@@ -8,6 +8,7 @@ author_profile: true
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
+(\*: Equal Contribution, \^: Corresponding Author)
 
 ## Preprint
 
@@ -145,6 +146,3 @@ Pingping Song, <span style="color:darkblue">**Yuxin Jiang**</span>, Yuting Shen.
 Jialing Liu, Juntong Liu, <span style="color:darkblue">**Yuxin Jiang**</span>.\
 *JP Journal of Algebra, Number Theory and Applications 40 (4), 2018*
 [[pdf]](http://www.pphmj.com/abstract/11971.htm)
-
-
-(\*: Equal Contribution, \^: Corresponding Author)
