@@ -15,6 +15,8 @@ I earned my Ph.D. in Data Science and Analytics from the Hong Kong University of
 Prior to my doctoral studies, I received an M.S. degree in Big Data and Technology from HKUST in 2021, advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin).
 I completed my undergraduate education at Shanghai University, obtaining a B.S. degree in Mathematics and Applied Mathematics in 2020, where I was advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm).
 
+🔥**We are seeking motivated students to join us as interns!** Our team offers access to GPU computing power and LLM APIs to support hands-on research, with a focus on transforming innovative ideas into real-world applications in LLM.
+
 (This webpage was last updated on **Jan 27, 2026**)
 
 
