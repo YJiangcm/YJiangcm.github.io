@@ -10,7 +10,7 @@ redirect_from:
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-I am currently a researcher at Huawei Noah's Ark Lab (Hong Kong).
+I am currently a researcher at Huawei AI Lab (Hong Kong).
 I earned my Ph.D. in Data Science and Analytics from the Hong Kong University of Science and Technology (HKUST) in 2025, under the supervision of [Prof. Wei Wang](http://wei-wang.net/).
 Prior to my doctoral studies, I received an M.S. degree in Big Data and Technology from HKUST in 2021, advised by [Prof. Fangzhen Lin](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=fangzhen-lin-flin).
 I completed my undergraduate education at Shanghai University, obtaining a B.S. degree in Mathematics and Applied Mathematics in 2020, where I was advised by [Prof. Qingwen Wang](https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm).
@@ -19,11 +19,15 @@ I completed my undergraduate education at Shanghai University, obtaining a B.S. 
 
 
 ## Research Interests
-* **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9), [RLVRR](https://openreview.net/forum?id=ZumVIktGbt)).
-* **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/), [WebR](https://aclanthology.org/2025.findings-acl.343/)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
-* **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
+* **Current Topic**:
+  * **Coding agent**: from Agent Data Construction to SFT & RL ([SWE-Lego](https://arxiv.org/abs/2601.01426)).
+  * **Multi-Domain RL**: including Open-ended Generation ([RLVRR](https://openreview.net/forum?id=ZumVIktGbt)), Temporal Reasoning ([Memory-T1](https://openreview.net/forum?id=vQf2YR2Kpd)), Hallucination Mitigation, etc.
 
-**Ph.D. Thesis:** [Towards Efficient and Effective Alignment of Large Language Models](files/PhD Thesis_Yuxin Jiang_final_version.pdf)
+* **Topic in Ph.D.**:
+  * **Reinforcement Learning of Large Language Models**, concentrating on iteratively refining model outputs through reward-based feedback to improve alignment and reasoning ([ESO](https://aclanthology.org/2025.coling-main.357/), [DPO-BMC](https://openreview.net/forum?id=hRwxZmcvW9)).
+  * **Instruction Tuning of Large Language Models**, especially on enhancing ([Lion](https://aclanthology.org/2023.emnlp-main.189/), [LTE](https://aclanthology.org/2024.acl-long.258/), [WebR](https://aclanthology.org/2025.findings-acl.343/)) and evaluating ([FollowBench](https://aclanthology.org/2024.acl-long.257/)) the capability of language models to comprehend and execute complex instructions accurately.
+  * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
+  * **Ph.D. Thesis:** [Towards Efficient and Effective Alignment of Large Language Models](files/PhD Thesis_Yuxin Jiang_final_version.pdf)
 
 ## Selected Publications (\*: Equal Contribution, ^: Corresponding Author)
 
