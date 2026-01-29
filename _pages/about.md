@@ -29,6 +29,12 @@ I completed my undergraduate education at Shanghai University, obtaining a B.S. 
   * **Contrastive Learning in NLP**, focusing on leveraging contrastive learning to enhance the quality of embeddings ([PromCSE](https://aclanthology.org/2022.findings-emnlp.220/), [AMR-DA](https://aclanthology.org/2022.findings-acl.244/)) and to enable more nuanced and context-aware language model performances ([GOLF](https://aclanthology.org/2023.findings-acl.510/)).
   * **Ph.D. Thesis:** [Towards Efficient and Effective Alignment of Large Language Models](files/PhD Thesis_Yuxin Jiang_final_version.pdf)
 
+ 
+## News
+- Jan. 2026: 📃Two papers about LLM Reinforcement Learning are accepted by ICLR 2026.
+- Jan. 2026: 🔥We present [SWE-Lego](https://arxiv.org/abs/2601.01426), the state-of-the-art supervised fine-tuning method for software issue resolving. All code, data, models are now opensourced. [Project website](https://swe-lego.github.io/).
+
+
 ## Selected Publications (\*: Equal Contribution, ^: Corresponding Author)
 
 - **From Verifiable Dot to Reward Chain: Harnessing Verifiable Reference-based Rewards for Reinforcement Learning of Open-ended Generation**\
